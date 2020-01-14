@@ -3,8 +3,8 @@ Yangtao Wang received the B.S. degree from Faculty of Mathematics and Statistics
 
 
 ### EDUCATION INFO
-- Sep 2015-Now. B.S., Faculty of Mathematics and Statistics, Hubei University, Wuhan, China.
-- Sep 2011-Jul 2015. Ph.D., Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, China.
+- Sep 2015-Now. Ph.D, Faculty of Mathematics and Statistics, Hubei University, Wuhan, China.
+- Sep 2011-Jul 2015. B.S., Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, China.
 
 ### PUBLICATIONS
 1. Ke Zhou, **Yangtao Wang**, Yu Liu*, Yujuan Yang, Yifei Liu, Guoliang Li, Lianli Gao and Zhili Xiao. A Framework for Image Dark Data Assessment. WWWJ 2020.
