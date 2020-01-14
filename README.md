@@ -5,6 +5,9 @@
 - Sep 2015-Now. Ph.D, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, China (supervised by Prof. [Ke Zhou](http://faculty.hust.edu.cn/zhouke2/zh_CN/index.htm)).
 - Sep 2011-Jul 2015. B.S., Faculty of Mathematics and Statistics, Hubei University, Wuhan, China.
 
+## INTERSHIP
+- May-Nov, 2019. Intern, Tencent Inc., Shenzhen, China.
+
 ## PUBLICATIONS
 - ***Accepted***
 1. Ke Zhou, **Yangtao Wang**, Yu Liu*, Yujuan Yang, Yifei Liu, Guoliang Li, Lianli Gao and Zhili Xiao. A Framework for Image Dark Data Assessment. WWWJ 2020.
