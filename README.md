@@ -1,9 +1,4 @@
 ## Yangtao Wang
-
-You can use the [Link](https://github.com/wangyangtao/wangyangtao.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 Yangtao Wang received the B.S. degree from Faculty of Mathematics and Statistics, Hubei University, Wuhan, China, in 2015. He is currently a Ph.D. candidate in Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology (HUST). His current research interests include differential privacy, machine learning, image processing, etc. He has published papers in international conferences and journals including ADMA, SIGMOD, APWeb-WAIM, DATE, FGCS, WWWJ, etc.
 
 ### Publication
