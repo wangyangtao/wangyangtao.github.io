@@ -1,11 +1,11 @@
 ## BIOGRAPHY ![Photo](F:\DSIS\入职登记照.jpg)
 Yangtao Wang received the B.S. degree from Faculty of Mathematics and Statistics, Hubei University, Wuhan, China, in 2015. He is currently a Ph.D. candidate in Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology (HUST). His current research interests include differential privacy, machine learning, image processing, etc. He has published papers in international conferences and journals including ADMA, SIGMOD, APWeb-WAIM, DATE, FGCS, WWWJ, etc.
 
-## EDUCATION INFO
+### EDUCATION INFO
 - Sep 2015-Now. Ph.D, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, China.
 - Sep 2011-Jul 2015. B.S., Faculty of Mathematics and Statistics, Hubei University, Wuhan, China.
 
-## PUBLICATIONS
+### PUBLICATIONS
 1. Ke Zhou, **Yangtao Wang**, Yu Liu*, Yujuan Yang, Yifei Liu, Guoliang Li, Lianli Gao and Zhili Xiao. A Framework for Image Dark Data Assessment. WWWJ 2020.
 2. **Yangtao Wang**, Yu Liu, Yifei Liu, Ke Zhou*, Yujuan Yang, Jiangfeng Zeng, Xiaodong Xu and Zhili Xiao. Analysis and Management to Hash-Based Graph and Rank. APWeb-WAIM 2019. [Link](https://link.springer.com/chapter/10.1007%2F978-3-030-26072-9_22)
 3. Xiaocui Li, **Yangtao Wang**, Jingkuan Song, Yu Liu, Xinyu Zhang, Ke Zhou and Chunhua Li*. A Low Cost and Un-Cancelled Laplace Noise Based Differential Privacy Algorithm for Spatial Decompositions. WWWJ 2020.
@@ -16,10 +16,10 @@ Yangtao Wang received the B.S. degree from Faculty of Mathematics and Statistics
 8. Ji Zhang, Yu Liu, Ke Zhou*, Guoliang Li, Zhili Xiao, Bin Chen, Jiashu Xing, **Yangtao Wang**, Tianheng Chen, Li Liu, Minwei Ran and Zekang Li. An End-to-End Automatic Cloud Database Tuning System Using Deep Reinforcement Learning. SIGMOD 2019. [Link](https://dl.acm.org/doi/10.1145/3299869.3300085)
 9. Yu Zhang, Ke Zhou, Ping Huang, Hua Wang*, Jianying Hu, **Yangtao Wang**, Yongguang Ji and Bin Cheng. A Machine Learning Based Write Policy for SSD Cache in Cloud Block Storage. DATE 2020.
 
-## CONTACT ME
-- Address: Wuhan National Laboratory for Optoelectronics, 1037 Luoyu Road, Hongshan District, Wuhan, China.
-- Email: ytwbruce@hust.edu.cn
-- Tel: +86-13072780291
+### CONTACT ME
+- **Address**: Wuhan National Laboratory for Optoelectronics, 1037 Luoyu Road, Hongshan District, Wuhan, China.
+- **Email**: ytwbruce@hust.edu.cn
+- **Tel**: +86-13072780291
 
 # Header 1
 ## Header 2
