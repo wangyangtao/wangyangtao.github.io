@@ -1,11 +1,11 @@
 ## BIOGRAPHY
 **Yangtao Wang** received the B.S. degree from Faculty of Mathematics and Statistics, Hubei University, Wuhan, China, in 2015. He is currently a Ph.D. candidate in Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology (HUST). His current research interests include differential privacy, machine learning, image processing, etc. He has published papers in international conferences and journals including ADMA, SIGMOD, APWeb-WAIM, DATE, FGCS, WWWJ, etc.
 
-### EDUCATION INFO
+## EDUCATION INFO
 - Sep 2015-Now. Ph.D, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, China.
 - Sep 2011-Jul 2015. B.S., Faculty of Mathematics and Statistics, Hubei University, Wuhan, China.
 
-### PUBLICATIONS
+## PUBLICATIONS
 - ***Accepted***
 1. Ke Zhou, **Yangtao Wang**, Yu Liu*, Yujuan Yang, Yifei Liu, Guoliang Li, Lianli Gao and Zhili Xiao. A Framework for Image Dark Data Assessment. WWWJ 2020.
 2. **Yangtao Wang**, Yu Liu, Yifei Liu, Ke Zhou*, Yujuan Yang, Jiangfeng Zeng, Xiaodong Xu and Zhili Xiao. Analysis and Management to Hash-Based Graph and Rank. APWeb-WAIM 2019. [Link](https://link.springer.com/chapter/10.1007%2F978-3-030-26072-9_22)
@@ -23,7 +23,7 @@
 13. Ji Zhang, Yuanzhang Wang, **Yangtao Wang**, Ke Zhou*, Schelter Sebastian, Ping Huang, Bin Cheng and Yongguang Ji. Tier-Scrubbing: An Adaptive and Tiered Disk Scrubbing Scheme with Improved MTTD and Reduced Cost. DAC 2020. 
 14. Xiaocui Li, Ke Zhou, Chunhua Li*, Xinyu Zhang, Yu Liu and **Yangtao Wang**. Multi-view Clustering via Neighbor Domain Correlation Learning. FGCS 2020. 
 
-### CONTACT ME
+## CONTACT ME
 - **Address**: Room B-409, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Luoyu Road 1037, Hongshan District, Wuhan, China.
 - **Email**: ytwbruce@hust.edu.cn
 - **Tel**: +86-13072780291
