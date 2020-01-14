@@ -6,11 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Yangtao Wang received the B.S. degree from Faculty of Mathematics and Statistics, Hubei University, Wuhan, China, in 2015. He is currently a Ph.D. candidate in Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology (HUST). His current research interests include differential privacy, machine learning, image processing, etc. He has published papers in international conferences and journals including ADMA, SIGMOD, APWeb-WAIM, DATE, FGCS, WWWJ, etc.
 
-### Markdown Publication
+### Publication
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 Syntax highlighted code block
 1. Ke Zhou, **Yangtao Wang**, Yu Liu*, Yujuan Yang, Yifei Liu, Guoliang Li, Lianli Gao and Zhili Xiao. A Framework for Image Dark Data Assessment. WWWJ 2020.
 2. **Yangtao Wang**, Yu Liu, Yifei Liu, Ke Zhou*, Yujuan Yang, Jiangfeng Zeng, Xiaodong Xu and Zhili Xiao. Analysis and Management to Hash-Based Graph and Rank. APWeb-WAIM 2019. [Link](https://link.springer.com/chapter/10.1007%2F978-3-030-26072-9_22)
