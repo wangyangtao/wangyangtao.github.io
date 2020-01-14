@@ -24,6 +24,6 @@
 14. Xiaocui Li, Ke Zhou, Chunhua Li*, Xinyu Zhang, Yu Liu and **Yangtao Wang**. Multi-view Clustering via Neighbor Domain Correlation Learning. FGCS 2020. 
 
 ### CONTACT ME
-- **Address**: Room B-409, Wuhan National Laboratory for Optoelectronics, Luoyu Road 1037, Hongshan District, Wuhan, China.
+- **Address**: Room B-409, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Luoyu Road 1037, Hongshan District, Wuhan, China.
 - **Email**: ytwbruce@hust.edu.cn
 - **Tel**: +86-13072780291
