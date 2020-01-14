@@ -1,6 +1,5 @@
-## Yangtao Wang ![Photo](F:\DSIS\入职登记照.jpg)
+## BIOGRAPHY ![Photo](F:\DSIS\入职登记照.jpg)
 Yangtao Wang received the B.S. degree from Faculty of Mathematics and Statistics, Hubei University, Wuhan, China, in 2015. He is currently a Ph.D. candidate in Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology (HUST). His current research interests include differential privacy, machine learning, image processing, etc. He has published papers in international conferences and journals including ADMA, SIGMOD, APWeb-WAIM, DATE, FGCS, WWWJ, etc.
-
 
 ### EDUCATION INFO
 - Sep 2015-Now. Ph.D, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, China.
@@ -16,6 +15,11 @@ Yangtao Wang received the B.S. degree from Faculty of Mathematics and Statistics
 7. Jiangfeng Zeng, Ming Yang, Ke Zhou*, Xiao Ma, **Yangtao Wang**, Xiaodong Xu and Zhili Xiao. Improved Review Sentiment Analysis with A Syntax-aware Encoder. APWeb-WAIM 2019. [Link](https://link.springer.com/chapter/10.1007%2F978-3-030-26075-0_6)
 8. Ji Zhang, Yu Liu, Ke Zhou*, Guoliang Li, Zhili Xiao, Bin Chen, Jiashu Xing, **Yangtao Wang**, Tianheng Chen, Li Liu, Minwei Ran and Zekang Li. An End-to-End Automatic Cloud Database Tuning System Using Deep Reinforcement Learning. SIGMOD 2019. [Link](https://dl.acm.org/doi/10.1145/3299869.3300085)
 9. Yu Zhang, Ke Zhou, Ping Huang, Hua Wang*, Jianying Hu, **Yangtao Wang**, Yongguang Ji and Bin Cheng. A Machine Learning Based Write Policy for SSD Cache in Cloud Block Storage. DATE 2020.
+
+## CONTACT ME
+- Address: Wuhan National Laboratory for Optoelectronics, 1037 Luoyu Road, Hongshan District, Wuhan, China.
+- Email: ytwbruce@hust.edu.cn
+- Tel: +86-13072780291
 
 # Header 1
 ## Header 2
