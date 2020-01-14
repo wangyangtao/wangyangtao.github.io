@@ -6,7 +6,7 @@
 - Sep 2011-Jul 2015. B.S., Faculty of Mathematics and Statistics, Hubei University, Wuhan, China.
 
 ### PUBLICATIONS
-- ***Accepted**
+- ***Accepted***
 1. Ke Zhou, **Yangtao Wang**, Yu Liu*, Yujuan Yang, Yifei Liu, Guoliang Li, Lianli Gao and Zhili Xiao. A Framework for Image Dark Data Assessment. WWWJ 2020.
 2. **Yangtao Wang**, Yu Liu, Yifei Liu, Ke Zhou*, Yujuan Yang, Jiangfeng Zeng, Xiaodong Xu and Zhili Xiao. Analysis and Management to Hash-Based Graph and Rank. APWeb-WAIM 2019. [Link](https://link.springer.com/chapter/10.1007%2F978-3-030-26072-9_22)
 3. Xiaocui Li, **Yangtao Wang**, Jingkuan Song, Yu Liu, Xinyu Zhang, Ke Zhou and Chunhua Li*. A Low Cost and Un-Cancelled Laplace Noise Based Differential Privacy Algorithm for Spatial Decompositions. WWWJ 2020. [Link](https://link.springer.com/article/10.1007/s11280-019-00769-8?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorContributingOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorContributingOnlineFirst_20200112)
@@ -16,7 +16,7 @@
 7. Jiangfeng Zeng, Ming Yang, Ke Zhou*, Xiao Ma, **Yangtao Wang**, Xiaodong Xu and Zhili Xiao. Improved Review Sentiment Analysis with A Syntax-aware Encoder. APWeb-WAIM 2019. [Link](https://link.springer.com/chapter/10.1007%2F978-3-030-26075-0_6)
 8. Ji Zhang, Yu Liu, Ke Zhou*, Guoliang Li, Zhili Xiao, Bin Chen, Jiashu Xing, **Yangtao Wang**, Tianheng Chen, Li Liu, Minwei Ran and Zekang Li. An End-to-End Automatic Cloud Database Tuning System Using Deep Reinforcement Learning. SIGMOD 2019. [Link](https://dl.acm.org/doi/10.1145/3299869.3300085)
 9. Yu Zhang, Ke Zhou, Ping Huang, Hua Wang*, Jianying Hu, **Yangtao Wang**, Yongguang Ji and Bin Cheng. A Machine Learning Based Write Policy for SSD Cache in Cloud Block Storage. DATE 2020.
-- ***Under review**
+- ***Under review***
 10. **Yangtao Wang**, Yu Liu, Jingkuan Song, Ke Zhou*, Zhili Xiao, Fangming Zou and Yunqing Sun. Unsupervised Deep Hashing with Node Representation for Image Retrieval. CVPR 2020.
 11. Yu Liu, **Yangtao Wang**, Jingkuan Song, Chan Guo, Ke Zhou* and Zhili Xiao. Deep Self-taught Graph Embedding Hashing with Pseudo Labels for Image Retrieval. ICME 2020.
 12. Yu Liu, Hong Jiang, **Yangtao Wang**, Ke Zhou*, Yifei Liu and Li Liu. Content Sifting Storage: Achieving Fast Read for Large-scale Image Dataset Analysis. DAC 2020.
