@@ -25,7 +25,7 @@
 12. Yu Liu, Hong Jiang, **Yangtao Wang**, Ke Zhou*, Yifei Liu and Li Liu. Content Sifting Storage: Achieving Fast Read for Large-scale Image Dataset Analysis. DAC 2020 (CCF A).
 13. Ji Zhang, Yuanzhang Wang, **Yangtao Wang**, Ke Zhou*, Schelter Sebastian, Ping Huang, Bin Cheng and Yongguang Ji. Tier-Scrubbing: An Adaptive and Tiered Disk Scrubbing Scheme with Improved MTTD and Reduced Cost. DAC 2020 (CCF A). 
 14. Xiaocui Li, Ke Zhou, Chunhua Li*, Xinyu Zhang, Yu Liu and **Yangtao Wang**. Multi-view Clustering via Neighbor Domain Correlation Learning. FGCS 2020 (JCR Q1). 
-15. Yanzhao Xie, Yu Liu, **Yangtao Wang**, Jingkuan Song, Peng Wang and Ke Zhou*. Fast Co-occurrence Hashing with Graph Convolutional Networks for Multi-Label Image Retrieval. IJCAI 2020 (CCF A). 
+15. Yanzhao Xie, Yu Liu, **Yangtao Wang**, Jingkuan Song, Peng Wang and Ke Zhou*. Label-Attened Hashing for Multi-Label Image Retrieval. IJCAI 2020 (CCF A). 
 
 ## CONTACT ME
 - **Address**: Room B-409, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Luoyu Road 1037, Hongshan District, Wuhan, China.
