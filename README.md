@@ -19,11 +19,12 @@
 7. Jiangfeng Zeng, Ming Yang, Ke Zhou*, Xiao Ma, **Yangtao Wang**, Xiaodong Xu and Zhili Xiao. Improved Review Sentiment Analysis with A Syntax-aware Encoder. APWeb-WAIM 2019 (CCF C). [Link](https://link.springer.com/chapter/10.1007%2F978-3-030-26075-0_6)
 8. Ji Zhang, Yu Liu, Ke Zhou*, Guoliang Li, Zhili Xiao, Bin Chen, Jiashu Xing, **Yangtao Wang**, Tianheng Chen, Li Liu, Minwei Ran and Zekang Li. An End-to-End Automatic Cloud Database Tuning System Using Deep Reinforcement Learning. SIGMOD 2019 (CCF A). [Link](https://dl.acm.org/doi/10.1145/3299869.3300085)
 9. Yu Zhang, Ke Zhou, Ping Huang, Hua Wang*, Jianying Hu, **Yangtao Wang**, Yongguang Ji and Bin Cheng. A Machine Learning Based Write Policy for SSD Cache in Cloud Block Storage. DATE 2020 (CCF B).
+10. Yu Liu, Hong Jiang, **Yangtao Wang**, Ke Zhou*, Yifei Liu and Li Liu. Content Sifting Storage: Achieving Fast Read for Large-scale Image Dataset Analysis. DAC 2020 (CCF A).
+11. Ji Zhang, Yuanzhang Wang, **Yangtao Wang**, Ke Zhou*, Schelter Sebastian, Ping Huang, Bin Cheng and Yongguang Ji. Tier-Scrubbing: An Adaptive and Tiered Disk Scrubbing Scheme with Improved MTTD and Reduced Cost. DAC 2020 (CCF A). 
+
 - ***Under review***
-10. **Yangtao Wang**, Yu Liu, Jingkuan Song, Ke Zhou*, Zhili Xiao, Fangming Zou and Yunqing Sun. Unsupervised Deep Hashing with Node Representation for Image Retrieval. CVPR 2020 (CCF A).
-11. Yu Liu, **Yangtao Wang**, Jingkuan Song, Chan Guo, Ke Zhou* and Zhili Xiao. Deep Self-taught Graph Embedding Hashing with Pseudo Labels for Image Retrieval. ICME 2020 (CCF B).
-12. Yu Liu, Hong Jiang, **Yangtao Wang**, Ke Zhou*, Yifei Liu and Li Liu. Content Sifting Storage: Achieving Fast Read for Large-scale Image Dataset Analysis. DAC 2020 (CCF A).
-13. Ji Zhang, Yuanzhang Wang, **Yangtao Wang**, Ke Zhou*, Schelter Sebastian, Ping Huang, Bin Cheng and Yongguang Ji. Tier-Scrubbing: An Adaptive and Tiered Disk Scrubbing Scheme with Improved MTTD and Reduced Cost. DAC 2020 (CCF A). 
+12. **Yangtao Wang**, Yu Liu, Jingkuan Song, Ke Zhou*, Zhili Xiao, Fangming Zou and Yunqing Sun. Unsupervised Deep Hashing with Node Representation for Image Retrieval. CVPR 2020 (CCF A).
+13. Yu Liu, **Yangtao Wang**, Jingkuan Song, Chan Guo, Ke Zhou* and Zhili Xiao. Deep Self-taught Graph Embedding Hashing with Pseudo Labels for Image Retrieval. ICME 2020 (CCF B).
 14. Xiaocui Li, Ke Zhou, Chunhua Li*, Xinyu Zhang, Yu Liu and **Yangtao Wang**. Multi-view Clustering via Neighbor Domain Correlation Learning. FGCS 2020 (JCR Q1). 
 15. Yanzhao Xie, Yu Liu, **Yangtao Wang**, Jingkuan Song, Peng Wang and Ke Zhou*. Label-Attended Hashing for Multi-Label Image Retrieval. IJCAI 2020 (CCF A). 
 
