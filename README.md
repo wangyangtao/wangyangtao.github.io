@@ -10,7 +10,7 @@
 
 ## PUBLICATIONS
 - ***Accepted***
-1. Ke Zhou, **Yangtao Wang**, Yu Liu*, Yujuan Yang, Yifei Liu, Guoliang Li, Lianli Gao and Zhili Xiao. A Framework for Image Dark Data Assessment. WWWJ 2020 (CCF B).
+1. Ke Zhou, **Yangtao Wang**, Yu Liu*, Yujuan Yang, Yifei Liu, Guoliang Li, Lianli Gao and Zhili Xiao. A Framework for Image Dark Data Assessment. WWWJ 2020 (CCF B). [link](https://link.springer.com/epdf/10.1007/s11280-020-00779-x?author_access_token=aGvpJPjDGeKscpt7mQiyefe4RwlQNchNByi7wbcMAY6lbZ0btZtKiXR5PutowHmC3aPBRVHF-fYM7aGGbgkd188ybBXrnMgq6ME47BUtezLX-fp-WH-TzYA7qL-WSeFuMfdximhJuWW_PvX4dSECHA%3D%3D)
 2. **Yangtao Wang**, Yu Liu, Yifei Liu, Ke Zhou*, Yujuan Yang, Jiangfeng Zeng, Xiaodong Xu and Zhili Xiao. Analysis and Management to Hash-Based Graph and Rank. APWeb-WAIM 2019 (CCF C). [Link](https://link.springer.com/chapter/10.1007%2F978-3-030-26072-9_22)
 3. Xiaocui Li, **Yangtao Wang**, Jingkuan Song, Yu Liu, Xinyu Zhang, Ke Zhou and Chunhua Li*. A Low Cost and Un-Cancelled Laplace Noise Based Differential Privacy Algorithm for Spatial Decompositions. WWWJ 2020 (CCF B). [Link](https://link.springer.com/article/10.1007/s11280-019-00769-8?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorContributingOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorContributingOnlineFirst_20200112)
 4. Yu Liu, **Yangtao Wang**, Ke Zhou*, Yujuan Yang and Yifei Liu. Semantic-aware Data Quality Assessment for Image Big Data. FGCS 2020 (JCR Q1). [Link](https://www.sciencedirect.com/science/article/pii/S0167739X19302304?via%3Dihub)
