@@ -26,7 +26,9 @@
 12. **Yangtao Wang**, Yu Liu, Jingkuan Song, Ke Zhou*, Zhili Xiao, Fangming Zou and Yunqing Sun. Unsupervised Deep Hashing with Node Representation for Image Retrieval. CVPR 2020 (CCF A).
 13. Yu Liu, **Yangtao Wang**, Jingkuan Song, Chan Guo, Ke Zhou* and Zhili Xiao. Deep Self-taught Graph Embedding Hashing with Pseudo Labels for Image Retrieval. ICME 2020 (CCF B).
 14. Xiaocui Li, Ke Zhou, Chunhua Li*, Xinyu Zhang, Yu Liu and **Yangtao Wang**. Multi-view Clustering via Neighbor Domain Correlation Learning. FGCS 2020 (JCR Q1). 
-15. Yanzhao Xie, Yu Liu, **Yangtao Wang**, Jingkuan Song, Peng Wang and Ke Zhou*. Label-Attended Hashing for Multi-Label Image Retrieval. IJCAI 2020 (CCF A). 
+15. Yanzhao Xie, Yu Liu, Yangtao Wang, Jingkuan Song, Peng Wang and Ke Zhou*. Label-Attended Hashing for Multi-Label Image Retrieval. IJCAI 2020 (CCF A). 
+16. Yu Liu, **Yangtao Wang***, Lianli Gao, Chan Guo, Yanzhao Xie and Zhili Xiao. Deep Hash Based Relevance-Aware Data Qality Assessment
+for Image Dark Data. ACM Transactions on Data Science 2020. (Corresponding author)
 
 ## CONTACT ME
 - **Address**: Room B-409, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Luoyu Road 1037, Hongshan District, Wuhan, China.
