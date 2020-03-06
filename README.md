@@ -21,13 +21,13 @@
 8. Yu Liu, **Yangtao Wang**, Ke Zhou*, Yujuan Yang, Yifei Liu, Jingkuan Song and Zhili Xiao. A Framework for Image Dark Data Assessment. APWeb-WAIM 2019 (Best Paper Runner-up) (CCF C). [Link](https://link.springer.com/chapter/10.1007%2F978-3-030-26072-9_1)
 9. Jiangfeng Zeng, Ming Yang, Ke Zhou*, Xiao Ma, **Yangtao Wang**, Xiaodong Xu and Zhili Xiao. Improved Review Sentiment Analysis with A Syntax-aware Encoder. APWeb-WAIM 2019 (CCF C). [Link](https://link.springer.com/chapter/10.1007%2F978-3-030-26075-0_6)
 10. Ji Zhang, Yu Liu, Ke Zhou*, Guoliang Li, Zhili Xiao, Bin Chen, Jiashu Xing, **Yangtao Wang**, Tianheng Chen, Li Liu, Minwei Ran and Zekang Li. An End-to-End Automatic Cloud Database Tuning System Using Deep Reinforcement Learning. SIGMOD 2019 (CCF A). [Link](https://dl.acm.org/doi/10.1145/3299869.3300085)
-13. Yu Liu, **Yangtao Wang**, Jingkuan Song, Chan Guo, Ke Zhou* and Zhili Xiao. Deep Self-taught Graph Embedding Hashing with Pseudo Labels for Image Retrieval. ICME 2020 (CCF B).
+11. Yu Liu, **Yangtao Wang**, Jingkuan Song, Chan Guo, Ke Zhou* and Zhili Xiao. Deep Self-taught Graph Embedding Hashing with Pseudo Labels for Image Retrieval. ICME 2020 (CCF B).
 
 - ***Under review***
 12. **Yangtao Wang**, Yu Liu, Jingkuan Song, Ke Zhou*, Zhili Xiao, Fangming Zou and Yunqing Sun. Unsupervised Deep Hashing with Node Representation for Image Retrieval. CVPR 2020 (CCF A).
-14. Xiaocui Li, Ke Zhou, Chunhua Li*, Xinyu Zhang, Yu Liu and **Yangtao Wang**. Multi-view Clustering via Neighbor Domain Correlation Learning. FGCS 2020 (JCR Q1). 
-15. Yanzhao Xie, Yu Liu, **Yangtao Wang**, Jingkuan Song, Peng Wang and Ke Zhou*. Label-Attended Hashing for Multi-Label Image Retrieval. IJCAI 2020 (CCF A). 
-16. Yu Liu, **Yangtao Wang***, Lianli Gao, Chan Guo, Yanzhao Xie and Zhili Xiao. Deep Hash Based Relevance-Aware Data Qality Assessment
+13. Xiaocui Li, Ke Zhou, Chunhua Li*, Xinyu Zhang, Yu Liu and **Yangtao Wang**. Multi-view Clustering via Neighbor Domain Correlation Learning. FGCS 2020 (JCR Q1). 
+14. Yanzhao Xie, Yu Liu, **Yangtao Wang**, Jingkuan Song, Peng Wang and Ke Zhou*. Label-Attended Hashing for Multi-Label Image Retrieval. IJCAI 2020 (CCF A). 
+15. Yu Liu, **Yangtao Wang***, Lianli Gao, Chan Guo, Yanzhao Xie and Zhili Xiao. Deep Hash Based Relevance-Aware Data Qality Assessment
 for Image Dark Data. ACM Transactions on Data Science 2020. (Corresponding author)
 
 ## CONTACT ME
