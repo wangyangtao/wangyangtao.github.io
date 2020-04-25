@@ -25,10 +25,11 @@
 13. Xiaocui Li, **Yangtao Wang**, Xinyu Zhang, Ke Zhou* and Chunhua Li. A More Secure Spatial Decompositions Algorithm via Indefeasible Laplace Noise in Differential Privacy. ADMA 2018 (Best Student Paper Runner-up). [Link](https://link.springer.com/chapter/10.1007%2F978-3-030-05090-0_19)
 
 - ***Under review***
-14. **Yangtao Wang**, Jingkuan Song, Ke Zhou, Yu Liu*. Unsupervised Deep Hashing with Node Representation for Image Retrieval. Pattern Recognition 2020 (CCF B, JCR Q1).
+14. **Yangtao Wang**, Jingkuan Song, Ke Zhou and Yu Liu*. Unsupervised Deep Hashing with Node Representation for Image Retrieval. Pattern Recognition 2020 (CCF B, JCR Q1).
 15. Xiaocui Li, Ke Zhou, Chunhua Li*, Xinyu Zhang, Yu Liu and **Yangtao Wang**. Multi-view Clustering via Neighbor Domain Correlation Learning. NCAA 2020 (CCF C, JCR Q3). 
 16. Yu Liu, **Yangtao Wang***, Lianli Gao, Chan Guo, Yanzhao Xie and Zhili Xiao. Deep Hash Based Relevance-Aware Data Qality Assessment
 for Image Dark Data. ACM Transactions on Data Science 2020. (Corresponding author)
+17. **Yangtao Wang**, Yanzhao Xie, Yu Liu* and Ke Zhou. Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion. CIKM 2020 (CCF B).
 
 ## CONTACT ME
 - **Address**: Room B-409, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Luoyu Road 1037, Hongshan District, Wuhan, China.
