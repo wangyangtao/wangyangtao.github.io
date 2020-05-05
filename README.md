@@ -1,3 +1,5 @@
+
+<img src="wangyangtao.jpg"  alt="photo" height="200" align="center"/>
 ## BIOGRAPHY
 **[Yangtao Wang](https://github.com/wangyangtao)** is currently a Ph.D. candidate in Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology (HUST), Wuhan, China. Prior to his Ph.D. journey, he received the B.S. degree from Faculty of Mathematics and Statistics, Hubei University, Wuhan, China, in 2015. His current main research interests include deep learning, image recognition, image hashing, etc. He has published papers in international conferences and journals including ADMA, SIGMOD, APWeb-WAIM, DATE, DAC, ICME, IJCAI, FGCS, WWWJ, etc. He got ADMA 2018 Best Student Paper Runner-up Award and APWeb-WAIM 2019 Best Paper Runner-up Award. He is serving as a review for *IEEE Access* and APWeb-WAIM 2020.
 
