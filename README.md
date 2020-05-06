@@ -10,7 +10,7 @@
 
 ## PUBLICATIONS
 - ***Accepted***
-1. Yanzhao Xie, Yu Liu, **Yangtao Wang**, Lianli Gao, Peng Wang and Ke Zhou*. Label-Attended Hashing for Multi-Label Image Retrieval. IJCAI 2020 (CCF A). 
+1. Yanzhao Xie, Yu Liu*, **Yangtao Wang**, Lianli Gao, Peng Wang and Ke Zhou. Label-Attended Hashing for Multi-Label Image Retrieval. IJCAI 2020 (CCF A). 
 2. Yu Liu, **Yangtao Wang**, Jingkuan Song, Chan Guo, Ke Zhou* and Zhili Xiao. Deep Self-taught Graph Embedding Hashing with Pseudo Labels for Image Retrieval. ICME 2020 (CCF B).
 3. Yu Liu, Hong Jiang, **Yangtao Wang**, Ke Zhou*, Yifei Liu and Li Liu. Content Sifting Storage: Achieving Fast Read for Large-scale Image Dataset Analysis. DAC 2020 (CCF A).
 4. Ji Zhang, Yuanzhang Wang, **Yangtao Wang**, Ke Zhou*, Schelter Sebastian, Ping Huang, Bin Cheng and Yongguang Ji. Tier-Scrubbing: An Adaptive and Tiered Disk Scrubbing Scheme with Improved MTTD and Reduced Cost. DAC 2020 (CCF A). 
