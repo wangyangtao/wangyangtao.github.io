@@ -19,7 +19,7 @@
 
 <li>Ji Zhang, Yuanzhang Wang, **Yangtao Wang**, Ke Zhou*, Schelter Sebastian, Ping Huang, Bin Cheng and Yongguang Ji. Tier-Scrubbing: An Adaptive and Tiered Disk Scrubbing Scheme with Improved MTTD and Reduced Cost. DAC 2020 (CCF A).</li> 
 
-<li>Ke Zhou, **Yangtao Wang**, Yu Liu*, Yujuan Yang, Yifei Liu, Guoliang Li, Lianli Gao and Zhili Xiao. A Framework for Image Dark Data Assessment. WWWJ 2020 (CCF B, JCR Q3). [link](https://link.springer.com/epdf/10.1007/s11280-020-00779-x?author_access_token=aGvpJPjDGeKscpt7mQiyefe4RwlQNchNByi7wbcMAY6lbZ0btZtKiXR5PutowHmC3aPBRVHF-fYM7aGGbgkd188ybBXrnMgq6ME47BUtezLX-fp-WH-TzYA7qL-WSeFuMfdximhJuWW_PvX4dSECHA%3D%3D)</li>
+<li>Ke Zhou, **Yangtao Wang**, Yu Liu*, Yujuan Yang, Yifei Liu, Guoliang Li, Lianli Gao and Zhili Xiao. A Framework for Image Dark Data Assessment. WWWJ 2020 (CCF B, JCR Q3).<a href="https://link.springer.com/epdf/10.1007/s11280-020-00779-x?author_access_token=aGvpJPjDGeKscpt7mQiyefe4RwlQNchNByi7wbcMAY6lbZ0btZtKiXR5PutowHmC3aPBRVHF-fYM7aGGbgkd188ybBXrnMgq6ME47BUtezLX-fp-WH-TzYA7qL-WSeFuMfdximhJuWW_PvX4dSECHA%3D%3D"><strong><font color="#267cb9">Link</font></strong></a></li>
 
 <li>Yu Zhang, Ke Zhou, Ping Huang, Hua Wang*, Jianying Hu, **Yangtao Wang**, Yongguang Ji and Bin Cheng. A Machine Learning Based Write Policy for SSD Cache in Cloud Block Storage. DATE 2020 (CCF B).</li>
 
