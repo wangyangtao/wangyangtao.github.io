@@ -51,7 +51,7 @@
 <li>Xiaocui Li, Ke Zhou, Chunhua Li*, Xinyu Zhang, Yu Liu and <strong>Yangtao Wang</strong>. Multi-view Clustering via Neighbor Domain Correlation Learning. NCAA 2020 (CCF C, JCR Q3).</li> 
 
 <li>Yu Liu, <strong>Yangtao Wang*</strong>, Lianli Gao, Chan Guo, Yanzhao Xie and Zhili Xiao. Deep Hash Based Relevance-Aware Data Quality Assessment
-for Image Dark Data. ACM Transactions on Data Science 2020 (**Corresponding author**).</li>
+for Image Dark Data. ACM Transactions on Data Science 2020 (<strong>Corresponding author</strong>).</li>
 
 <li><strong>Yangtao Wang</strong>, Yanzhao Xie, Yu Liu*, Ke Zhou and Xiaocui Li. Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion. CIKM 2020 (CCF B).</li>
 </ol>
