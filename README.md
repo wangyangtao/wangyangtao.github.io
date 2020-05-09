@@ -19,23 +19,23 @@
 
 <li>Ji Zhang, Yuanzhang Wang, **Yangtao Wang**, Ke Zhou*, Schelter Sebastian, Ping Huang, Bin Cheng and Yongguang Ji. Tier-Scrubbing: An Adaptive and Tiered Disk Scrubbing Scheme with Improved MTTD and Reduced Cost. DAC 2020 (CCF A).</li> 
 
-<li>Ke Zhou, **Yangtao Wang**, Yu Liu*, Yujuan Yang, Yifei Liu, Guoliang Li, Lianli Gao and Zhili Xiao. A Framework for Image Dark Data Assessment. WWWJ 2020 (CCF B, JCR Q3).<a href="https://link.springer.com/epdf/10.1007/s11280-020-00779-x?author_access_token=aGvpJPjDGeKscpt7mQiyefe4RwlQNchNByi7wbcMAY6lbZ0btZtKiXR5PutowHmC3aPBRVHF-fYM7aGGbgkd188ybBXrnMgq6ME47BUtezLX-fp-WH-TzYA7qL-WSeFuMfdximhJuWW_PvX4dSECHA%3D%3D"><strong><font color="#267cb9">Link</font></strong></a></li>
+<li>Ke Zhou, **Yangtao Wang**, Yu Liu*, Yujuan Yang, Yifei Liu, Guoliang Li, Lianli Gao and Zhili Xiao. A Framework for Image Dark Data Assessment. WWWJ 2020 (CCF B, JCR Q3). <a href="https://link.springer.com/epdf/10.1007/s11280-020-00779-x?author_access_token=aGvpJPjDGeKscpt7mQiyefe4RwlQNchNByi7wbcMAY6lbZ0btZtKiXR5PutowHmC3aPBRVHF-fYM7aGGbgkd188ybBXrnMgq6ME47BUtezLX-fp-WH-TzYA7qL-WSeFuMfdximhJuWW_PvX4dSECHA%3D%3D"><strong><font color="#267cb9">Link</font></strong></a></li>
 
 <li>Yu Zhang, Ke Zhou, Ping Huang, Hua Wang*, Jianying Hu, **Yangtao Wang**, Yongguang Ji and Bin Cheng. A Machine Learning Based Write Policy for SSD Cache in Cloud Block Storage. DATE 2020 (CCF B).</li>
 
-<li>Xiaocui Li, **Yangtao Wang**, Jingkuan Song, Yu Liu, Xinyu Zhang, Ke Zhou and Chunhua Li*. A Low Cost and Un-Cancelled Laplace Noise Based Differential Privacy Algorithm for Spatial Decompositions. WWWJ 2020 (CCF B, JCR Q3). [Link](https://link.springer.com/article/10.1007/s11280-019-00769-8?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorContributingOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorContributingOnlineFirst_20200112)</li>
+<li>Xiaocui Li, **Yangtao Wang**, Jingkuan Song, Yu Liu, Xinyu Zhang, Ke Zhou and Chunhua Li*. A Low Cost and Un-Cancelled Laplace Noise Based Differential Privacy Algorithm for Spatial Decompositions. WWWJ 2020 (CCF B, JCR Q3). <a href="https://link.springer.com/article/10.1007/s11280-019-00769-8?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorContributingOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorContributingOnlineFirst_20200112"><strong><font color="#267cb9">Link</font></strong></a></li>
 
-<li>Yu Liu, **Yangtao Wang**, Ke Zhou*, Yujuan Yang and Yifei Liu. Semantic-aware Data Quality Assessment for Image Big Data. FGCS 2020 (CCF C, JCR Q1). [Link](https://www.sciencedirect.com/science/article/pii/S0167739X19302304?via%3Dihub)</li>
+<li>Yu Liu, **Yangtao Wang**, Ke Zhou*, Yujuan Yang and Yifei Liu. Semantic-aware Data Quality Assessment for Image Big Data. FGCS 2020 (CCF C, JCR Q1). <a href="https://www.sciencedirect.com/science/article/pii/S0167739X19302304?via%3Dihub">Link</font></strong></a></li>
 
-<li>**Yangtao Wang**, Yu Liu, Yifei Liu, Ke Zhou*, Yujuan Yang, Jiangfeng Zeng, Xiaodong Xu and Zhili Xiao. Analysis and Management to Hash-Based Graph and Rank. APWeb-WAIM 2019 (CCF C). [Link](https://link.springer.com/chapter/10.1007%2F978-3-030-26072-9_22)</li>
+<li>**Yangtao Wang**, Yu Liu, Yifei Liu, Ke Zhou*, Yujuan Yang, Jiangfeng Zeng, Xiaodong Xu and Zhili Xiao. Analysis and Management to Hash-Based Graph and Rank. APWeb-WAIM 2019 (CCF C). <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-26072-9_22">Link</font></strong></a></li>
 
-<li>Yu Liu, **Yangtao Wang**, Ke Zhou*, Yujuan Yang, Yifei Liu, Jingkuan Song and Zhili Xiao. A Framework for Image Dark Data Assessment. APWeb-WAIM 2019 (Best Paper Runner-up) (CCF C). [Link](https://link.springer.com/chapter/10.1007%2F978-3-030-26072-9_1)</li>
+<li>Yu Liu, **Yangtao Wang**, Ke Zhou*, Yujuan Yang, Yifei Liu, Jingkuan Song and Zhili Xiao. A Framework for Image Dark Data Assessment. APWeb-WAIM 2019 (Best Paper Runner-up) (CCF C). <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-26072-9_1">Link</font></strong></a></li>
 
-<li>Jiangfeng Zeng, Ming Yang, Ke Zhou*, Xiao Ma, **Yangtao Wang**, Xiaodong Xu and Zhili Xiao. Improved Review Sentiment Analysis with A Syntax-aware Encoder. APWeb-WAIM 2019 (CCF C). [Link](https://link.springer.com/chapter/10.1007%2F978-3-030-26075-0_6)</li>
+<li>Jiangfeng Zeng, Ming Yang, Ke Zhou*, Xiao Ma, **Yangtao Wang**, Xiaodong Xu and Zhili Xiao. Improved Review Sentiment Analysis with A Syntax-aware Encoder. APWeb-WAIM 2019 (CCF C). <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-26075-0_6">Link</font></strong></a></li>
 
-<li>Ji Zhang, Yu Liu, Ke Zhou*, Guoliang Li, Zhili Xiao, Bin Chen, Jiashu Xing, **Yangtao Wang**, Tianheng Chen, Li Liu, Minwei Ran and Zekang Li. An End-to-End Automatic Cloud Database Tuning System Using Deep Reinforcement Learning. SIGMOD 2019 (CCF A). [Link](https://dl.acm.org/doi/10.1145/3299869.3300085)</li>
+<li>Ji Zhang, Yu Liu, Ke Zhou*, Guoliang Li, Zhili Xiao, Bin Chen, Jiashu Xing, **Yangtao Wang**, Tianheng Chen, Li Liu, Minwei Ran and Zekang Li. An End-to-End Automatic Cloud Database Tuning System Using Deep Reinforcement Learning. SIGMOD 2019 (CCF A). <a href="https://dl.acm.org/doi/10.1145/3299869.3300085">Link</font></strong></a></li>
 
-<li>Xiaocui Li, **Yangtao Wang**, Xinyu Zhang, Ke Zhou* and Chunhua Li. A More Secure Spatial Decompositions Algorithm via Indefeasible Laplace Noise in Differential Privacy. ADMA 2018 (Best Student Paper Runner-up). [Link](https://link.springer.com/chapter/10.1007%2F978-3-030-05090-0_19)</li>
+<li>Xiaocui Li, **Yangtao Wang**, Xinyu Zhang, Ke Zhou* and Chunhua Li. A More Secure Spatial Decompositions Algorithm via Indefeasible Laplace Noise in Differential Privacy. ADMA 2018 (Best Student Paper Runner-up). <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-05090-0_19">Link</font></strong></a></li>
 </ol>
 
 - ***Under review***
