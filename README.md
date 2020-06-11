@@ -48,7 +48,7 @@
 <ol>
 <li><strong>Yangtao Wang</strong>, Jingkuan Song, Ke Zhou and Yu Liu*. Unsupervised Deep Hashing with Node Representation for Image Retrieval[J]. Pattern Recognition 2020 (CCF B, JCR Q1).</li>
   
-<li>Xiaocui Li, Ke Zhou, Chunhua Li*, Xinyu Zhang, Yu Liu and <strong>Yangtao Wang</strong>. Multi-view Clustering via Neighbor Domain Correlation Learning[J]. NCAA 2020 (CCF C, JCR Q3).</li> 
+<li>Xiaocui Li, Ke Zhou, Chunhua Li*, Xinyu Zhang, Yu Liu and <strong>Yangtao Wang</strong>. Multi-view Clustering via Neighbor Domain Correlation Learning[J]. NCAA 2020 (CCF C, JCR Q1).</li> 
 
 <li>Yu Liu, <strong>Yangtao Wang*</strong>, Lianli Gao, Chan Guo, Yanzhao Xie and Zhili Xiao. Deep Hash Based Relevance-Aware Data Quality Assessment
 for Image Dark Data[J]. ACM Transactions on Data Science 2020 (<strong>Corresponding author</strong>).</li>
