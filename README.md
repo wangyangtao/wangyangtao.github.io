@@ -56,6 +56,8 @@ for Image Dark Data[J]. ACM Transactions on Data Science 2020 (<strong>Correspon
 <li><strong>Yangtao Wang</strong>, Yanzhao Xie, Yu Liu*, Ke Zhou and Xiaocui Li. Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion[C]. CIKM 2020 (CCF B).</li>
 
 <li><strong>Yangtao Wang</strong>, Yanzhao Xie, Jingkuan Song, Ke Zhou and Yu Liu*. CFMIC: Corss-modal Fusion for Multi-label Image Classification with Attention Mechanism[C]. ACM Multimedia 2020 (CCF A).</li>
+
+<li>Yanzhao Xie, <strong>Yangtao Wang*</strong>, Yu Liu and Ke Zhou. Label Graph Learning for Multi-label Image Recognition with Cross-modal Fusion[C]. ICDM 2020 (CCF B).</li>
 </ol>
 
 ## CONTACT ME
