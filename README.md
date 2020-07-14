@@ -21,11 +21,11 @@
 
 <li>Ji Zhang, Yuanzhang Wang, <strong>Yangtao Wang</strong>, Ke Zhou*, Schelter Sebastian, Ping Huang, Bin Cheng and Yongguang Ji. Tier-Scrubbing: An Adaptive and Tiered Disk Scrubbing Scheme with Improved MTTD and Reduced Cost[C]. DAC 2020 (CCF A).</li> 
 
-<li>Ke Zhou, <strong>Yangtao Wang</strong>, Yu Liu*, Yujuan Yang, Yifei Liu, Guoliang Li, Lianli Gao and Zhili Xiao. A Framework for Image Dark Data Assessment[J]. WWWJ 2020 (CCF B, JCR Q3). <a href="https://link.springer.com/content/pdf/10.1007/s11280-020-00779-x.pdf"><strong><font color="#267cb9">Link</font></strong></a></li>
+<li>Ke Zhou, <strong>Yangtao Wang</strong>, Yu Liu*, Yujuan Yang, Yifei Liu, Guoliang Li, Lianli Gao and Zhili Xiao. A Framework for Image Dark Data Assessment[J]. WWWJ 2020 (CCF B, JCR Q2). <a href="https://link.springer.com/content/pdf/10.1007/s11280-020-00779-x.pdf"><strong><font color="#267cb9">Link</font></strong></a></li>
 
 <li>Yu Zhang, Ke Zhou, Ping Huang, Hua Wang*, Jianying Hu, <strong>Yangtao Wang</strong>, Yongguang Ji and Bin Cheng. A Machine Learning Based Write Policy for SSD Cache in Cloud Block Storage[C]. DATE 2020 (CCF B). <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9116539"><strong><font color="#267cb9">Link</font></strong></a></li>
 
-<li>Xiaocui Li, <strong>Yangtao Wang</strong>, Jingkuan Song, Yu Liu, Xinyu Zhang, Ke Zhou and Chunhua Li*. A Low Cost and Un-Cancelled Laplace Noise Based Differential Privacy Algorithm for Spatial Decompositions[J]. WWWJ 2020 (CCF B, JCR Q3). <a href="https://link.springer.com/article/10.1007/s11280-019-00769-8?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorContributingOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorContributingOnlineFirst_20200112"><strong><font color="#267cb9">Link</font></strong></a></li>
+<li>Xiaocui Li, <strong>Yangtao Wang</strong>, Jingkuan Song, Yu Liu, Xinyu Zhang, Ke Zhou and Chunhua Li*. A Low Cost and Un-Cancelled Laplace Noise Based Differential Privacy Algorithm for Spatial Decompositions[J]. WWWJ 2020 (CCF B, JCR Q2). <a href="https://link.springer.com/article/10.1007/s11280-019-00769-8?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorContributingOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorContributingOnlineFirst_20200112"><strong><font color="#267cb9">Link</font></strong></a></li>
 
 <li>Yu Liu, <strong>Yangtao Wang</strong>, Ke Zhou*, Yujuan Yang and Yifei Liu. Semantic-aware Data Quality Assessment for Image Big Data[J]. FGCS 2020 (CCF C, JCR Q1). <a href="https://www.sciencedirect.com/science/article/pii/S0167739X19302304?via%3Dihub"><strong><font color="#267cb9">Link</font></strong></a></li>
 
