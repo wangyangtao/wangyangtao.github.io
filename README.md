@@ -15,7 +15,7 @@
   
 <li>Yanzhao Xie, Yu Liu*, <strong>Yangtao Wang</strong>, Lianli Gao, Peng Wang and Ke Zhou. Label-Attended Hashing for Multi-Label Image Retrieval[C]. IJCAI 2020 (CCF A).</li> 
   
-<li>Yu Liu, <strong>Yangtao Wang</strong>, Jingkuan Song, Chan Guo, Ke Zhou* and Zhili Xiao. Deep Self-taught Graph Embedding Hashing with Pseudo Labels for Image Retrieval[C]. ICME 2020 (CCF B).</li>
+<li>Yu Liu, <strong>Yangtao Wang</strong>, Jingkuan Song, Chan Guo, Ke Zhou* and Zhili Xiao. Deep Self-taught Graph Embedding Hashing with Pseudo Labels for Image Retrieval[C]. ICME 2020 (CCF B).<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9102819"><strong><font color="#267cb9">Link</font></strong></a></li>
 
 <li>Yu Liu, Hong Jiang, <strong>Yangtao Wang</strong>, Ke Zhou*, Yifei Liu and Li Liu. Content Sifting Storage: Achieving Fast Read for Large-scale Image Dataset Analysis[C]. DAC 2020 (CCF A).</li>
 
