@@ -36,7 +36,7 @@
 <li>Yu Liu, <strong>Yangtao Wang</strong>, Ke Zhou*, Yujuan Yang, Yifei Liu, Jingkuan Song and Zhili Xiao. A Framework for Image Dark Data Assessment[C]. APWeb-WAIM 2019 (Best Paper Runner-up) (CCF C). <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-26072-9_1.pdf"><strong><font color="#267cb9">Link</font></strong></a></li>
 
 
-<li>Jiangfeng Zeng, Ming Yang, Ke Zhou*, Xiao Ma, <strong>Yangtao Wang</strong>, Xiaodong Xu and Zhili Xiao. Improved Review Sentiment Analysis with A Syntax-aware Encoder[C]. APWeb-WAIM 2019 (CCF C). <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-26075-0_6"><strong><font color="#267cb9">Link</font></strong></a></li>
+<li>Jiangfeng Zeng, Ming Yang, Ke Zhou*, Xiao Ma, <strong>Yangtao Wang</strong>, Xiaodong Xu and Zhili Xiao. Improved Review Sentiment Analysis with A Syntax-aware Encoder[C]. APWeb-WAIM 2019 (CCF C). <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-26075-0_6.pdf"><strong><font color="#267cb9">Link</font></strong></a></li>
 
 
 <li>Ji Zhang, Yu Liu, Ke Zhou*, Guoliang Li, Zhili Xiao, Bin Chen, Jiashu Xing, <strong>Yangtao Wang</strong>, Tianheng Chen, Li Liu, Minwei Ran and Zekang Li. An End-to-End Automatic Cloud Database Tuning System Using Deep Reinforcement Learning[C]. SIGMOD 2019 (CCF A). <a href="https://dl.acm.org/doi/10.1145/3299869.3300085"><strong><font color="#267cb9">Link</font></strong></a></li>
