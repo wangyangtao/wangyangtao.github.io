@@ -11,7 +11,7 @@
 ## PUBLICATIONS
 - ***Accepted***
 <ol>
- <li>Xiaocui Li, Ke Zhou, Chunhua Li*, Xinyu Zhang, Yu Liu and <strong>Yangtao Wang</strong>. Multi-view Clustering via Neighbor Domain Correlation Learning[J]. NCAA 2020 (CCF C, JCR Q1).</li>  
+ <li>Xiaocui Li, Ke Zhou, Chunhua Li*, Xinyu Zhang, Yu Liu and <strong>Yangtao Wang</strong>. Multi-view Clustering via Neighbor Domain Correlation Learning[J]. NCAA 2020 (CCF C, JCR Q1).<a href=""><strong><font color="#267cb9">pdf</font></strong></a></li>   
   
 <li>Yanzhao Xie, Yu Liu*, <strong>Yangtao Wang</strong>, Lianli Gao, Peng Wang and Ke Zhou. Label-Attended Hashing for Multi-Label Image Retrieval[C]. IJCAI 2020 (CCF A).<a href="https://www.ijcai.org/Proceedings/2020/0133.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li> 
   
