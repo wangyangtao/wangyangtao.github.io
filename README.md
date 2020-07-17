@@ -11,7 +11,7 @@
 ## PUBLICATIONS
 - ***Accepted***
 <ol>
- <li><strong>Yangtao Wang</strong>, Yanzhao Xie, Yu Liu, Ke Zhou, and Xiaocui Li. Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion[C]. CIKM 2020 (CCF B).<a href="https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>  
+ <li><strong>Yangtao Wang</strong>, Yanzhao Xie, Yu Liu*, Ke Zhou, and Xiaocui Li. Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion[C]. CIKM 2020 (CCF B).<a href="https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>  
  
  <li>Xiaocui Li, Ke Zhou, Chunhua Li*, Xinyu Zhang, Yu Liu and <strong>Yangtao Wang</strong>. Multi-view Clustering via Neighbor Domain Correlation Learning[J]. NCAA 2020 (CCF C, JCR Q1).<a href="https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>   
   
