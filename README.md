@@ -11,15 +11,15 @@
 ## PUBLICATIONS
 - ***Accepted***
 <ol>
- <li>Xiaocui Li, Ke Zhou, Chunhua Li*, Xinyu Zhang, Yu Liu and <strong>Yangtao Wang</strong>. Multi-view Clustering via Neighbor Domain Correlation Learning[J]. NCAA 2020 (CCF C, JCR Q1).<a href=""><strong><font color="#267cb9">pdf</font></strong></a></li>   
+ <li>Xiaocui Li, Ke Zhou, Chunhua Li*, Xinyu Zhang, Yu Liu and <strong>Yangtao Wang</strong>. Multi-view Clustering via Neighbor Domain Correlation Learning[J]. NCAA 2020 (CCF C, JCR Q1).<a href="https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>   
   
 <li>Yanzhao Xie, Yu Liu*, <strong>Yangtao Wang</strong>, Lianli Gao, Peng Wang and Ke Zhou. Label-Attended Hashing for Multi-Label Image Retrieval[C]. IJCAI 2020 (CCF A).<a href="https://www.ijcai.org/Proceedings/2020/0133.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li> 
   
 <li>Yu Liu, <strong>Yangtao Wang</strong>, Jingkuan Song, Chan Guo, Ke Zhou* and Zhili Xiao. Deep Self-taught Graph Embedding Hashing with Pseudo Labels for Image Retrieval[C]. ICME 2020 (CCF B).<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9102819"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
-<li>Yu Liu, Hong Jiang, <strong>Yangtao Wang</strong>, Ke Zhou*, Yifei Liu and Li Liu. Content Sifting Storage: Achieving Fast Read for Large-scale Image Dataset Analysis[C]. DAC 2020 (CCF A).<a href=""><strong><font color="#267cb9">pdf</font></strong></a></li> 
+<li>Yu Liu, Hong Jiang, <strong>Yangtao Wang</strong>, Ke Zhou*, Yifei Liu and Li Liu. Content Sifting Storage: Achieving Fast Read for Large-scale Image Dataset Analysis[C]. DAC 2020 (CCF A).<a href="https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li> 
 
-<li>Ji Zhang, Yuanzhang Wang, <strong>Yangtao Wang</strong>, Ke Zhou*, Schelter Sebastian, Ping Huang, Bin Cheng and Yongguang Ji. Tier-Scrubbing: An Adaptive and Tiered Disk Scrubbing Scheme with Improved MTTD and Reduced Cost[C]. DAC 2020 (CCF A).<a href=""><strong><font color="#267cb9">pdf</font></strong></a></li>  
+<li>Ji Zhang, Yuanzhang Wang, <strong>Yangtao Wang</strong>, Ke Zhou*, Schelter Sebastian, Ping Huang, Bin Cheng and Yongguang Ji. Tier-Scrubbing: An Adaptive and Tiered Disk Scrubbing Scheme with Improved MTTD and Reduced Cost[C]. DAC 2020 (CCF A).<a href="https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>  
 
 <li>Ke Zhou, <strong>Yangtao Wang</strong>, Yu Liu*, Yujuan Yang, Yifei Liu, Guoliang Li, Lianli Gao and Zhili Xiao. A Framework for Image Dark Data Assessment[J]. WWWJ 2020 (CCF B, JCR Q2). <a href="https://link.springer.com/content/pdf/10.1007/s11280-020-00779-x.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
