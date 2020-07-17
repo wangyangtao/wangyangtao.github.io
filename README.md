@@ -11,6 +11,8 @@
 ## PUBLICATIONS
 - ***Accepted***
 <ol>
+ <li><strong>Yangtao Wang</strong>, Jingkuan Song, Ke Zhou and Yu Liu*. Unsupervised Deep Hashing with Node Representation for Image Retrieval[J]. Pattern Recognition 2020 (CCF B, JCR Q1).<a href="https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li> 
+ 
  <li>Xiaocui Li, Ke Zhou, Chunhua Li*, Xinyu Zhang, Yu Liu and <strong>Yangtao Wang</strong>. Multi-view Clustering via Neighbor Domain Correlation Learning[J]. NCAA 2020 (CCF C, JCR Q1).<a href="https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>   
   
 <li>Yanzhao Xie, Yu Liu*, <strong>Yangtao Wang</strong>, Lianli Gao, Peng Wang and Ke Zhou. Label-Attended Hashing for Multi-Label Image Retrieval[C]. IJCAI 2020 (CCF A).<a href="https://www.ijcai.org/Proceedings/2020/0133.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li> 
@@ -48,12 +50,10 @@
 
 - ***Under review***
 <ol>
-<li><strong>Yangtao Wang</strong>, Jingkuan Song, Ke Zhou and Yu Liu*. Unsupervised Deep Hashing with Node Representation for Image Retrieval[J]. Pattern Recognition 2020 (CCF B, JCR Q1).</li>
+ <li><strong>Yangtao Wang</strong>, Jingkuan Song, Ke Zhou and Yu Liu*. Unsupervised Deep Hashing with Node Representation for Image Retrieval[J]. Pattern Recognition 2020 (CCF B, JCR Q1).</li> 
 
 <li>Yu Liu, <strong>Yangtao Wang*</strong>, Lianli Gao, Chan Guo, Yanzhao Xie and Zhili Xiao. Deep Hash Based Relevance-Aware Data Quality Assessment
 for Image Dark Data[J]. ACM Transactions on Data Science 2020 (<strong>Corresponding author</strong>).</li>
-
-<li><strong>Yangtao Wang</strong>, Yanzhao Xie, Yu Liu*, Ke Zhou and Xiaocui Li. Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion[C]. CIKM 2020 (CCF B).</li>
 
 <li><strong>Yangtao Wang</strong>, Yanzhao Xie, Jingkuan Song, Ke Zhou and Yu Liu*. CFMIC: Cross-modal Fusion for Multi-label Image Classification with Attention Mechanism[C]. ACM Multimedia 2020 (CCF A).</li>
 
