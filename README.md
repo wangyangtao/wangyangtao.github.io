@@ -55,7 +55,7 @@
 <li>Yu Liu, <strong>Yangtao Wang*</strong>, Lianli Gao, Chan Guo, Yanzhao Xie and Zhili Xiao. Deep Hash Based Relevance-Aware Data Quality Assessment
 for Image Dark Data[J]. ACM Transactions on Data Science (<strong>Corresponding author</strong>).</li>
 
-<li><strong>Yangtao Wang</strong>, Yanzhao Xie, Jingkuan Song, Ke Zhou and Yu Liu*. CFMIC: Cross-modal Fusion for Multi-label Image Classification with Attention Mechanism[C]. ACM Multimedia 2020 (CCF A).</li>
+<li><strong>Yangtao Wang</strong>, Yanzhao Xie, Jingkuan Song, Ke Zhou and Yu Liu*. CFMIC: Cross-modal Fusion for Multi-label Image Classification with Attention Mechanism[J]. IEEE Transactions on Multimedia (CCF B, JCR Q1).</li>
 
 <li>Yanzhao Xie, <strong>Yangtao Wang*</strong>, Yu Liu and Ke Zhou. Label Graph Learning for Multi-label Image Recognition with Cross-modal Fusion[C]. ICDM 2020 (CCF B, <strong>Corresponding author</strong>).</li>
 </ol>
