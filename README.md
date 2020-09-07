@@ -55,9 +55,12 @@ for Image Dark Data[J]. ACM Transactions on Data Science (<strong>Corresponding 
 <ol>
  <li><strong>Yangtao Wang</strong>, Jingkuan Song, Ke Zhou and Yu Liu*. Unsupervised Deep Hashing with Node Representation for Image Retrieval[J]. Pattern Recognition (CCF B, JCR Q1) (minor revision).</li> 
 
+<li><strong>Yangtao Wang</strong>, Yanzhao Xie, Jingkuan Song, Ke Zhou and Yu Liu*. CFMIC: Cross-modal Fusion for Multi-label Image Classification with Attention Mechanism[J]. IEEE Transactions on Multimedia (CCF B, JCR Q1).</li>
+
+<li><strong>Yangtao Wang</strong>, Yanzhao Xie, Yu Liu* and Ke Zhou. G-CAM: Graph Convolution Network Based Class Activation Mapping for Multi-label Image Recognition[C]. AAAI 2021 (CCF A).</li>
+
 <li>Yanzhao Xie, <strong>Yangtao Wang*</strong>, Yu Liu and Ke Zhou. Label Graph Learning for Multi-label Image Recognition with Cross-modal Fusion[C]. ICDM 2020 (CCF B, <strong>Corresponding author</strong>) (Reject).</li>
 
-<li><strong>Yangtao Wang</strong>, Yanzhao Xie, Jingkuan Song, Ke Zhou and Yu Liu*. CFMIC: Cross-modal Fusion for Multi-label Image Classification with Attention Mechanism[J]. IEEE Transactions on Multimedia (CCF B, JCR Q1).</li>
 </ol>
 
 ## CONTACT ME
