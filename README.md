@@ -11,7 +11,7 @@
 ## PUBLICATIONS
 - ***Accepted***
 <ol>
- <li><strong>Yangtao Wang</strong>, Jingkuan Song, Ke Zhou and Yu Liu*. Unsupervised Deep Hashing with Node Representation for Image Retrieval[J]. Pattern Recognition (CCF B, JCR Q1).<a href="https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li> 
+ <li><strong>Yangtao Wang</strong>, Jingkuan Song, Ke Zhou and Yu Liu*. Unsupervised Deep Hashing with Node Representation for Image Retrieval[J]. Pattern Recognition (CCF B, JCR Q1).<a href="https://www.sciencedirect.com/science/article/pii/S0031320320305884?dgcid=coauthor"><strong><font color="#267cb9">pdf</font></strong></a></li> 
  
  <li>Yu Liu, <strong>Yangtao Wang*</strong>, Lianli Gao, Chan Guo, Yanzhao Xie and Zhili Xiao. Deep Hash Based Relevance-Aware Data Quality Assessment
 for Image Dark Data[J]. ACM Transactions on Data Science (<strong>Corresponding author</strong>).<a href="https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>
