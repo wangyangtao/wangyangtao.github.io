@@ -2,7 +2,7 @@
 **[Yangtao Wang](https://github.com/wangyangtao)** is currently a Ph.D. candidate in Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology (HUST), Wuhan, China. Prior to his Ph.D. journey, he received the B.S. degree from Faculty of Mathematics and Statistics, Hubei University, Wuhan, China, in 2015. His current main research interests include deep learning and image recognition. He has published papers in international conferences and journals including ADMA, SIGMOD, APWeb-WAIM, DATE, DAC, ICME, IJCAI, CIKM, FGCS, WWWJ, NCA, TDS, Pattern Recognition, etc. He got ADMA 2018 Best Student Paper Runner-up Award and APWeb-WAIM 2019 Best Paper Runner-up Award. He is serving as a review for *IEEE Access*, APWeb-WAIM 2020 and AAAI 2021.
 
 ## EDUCATION INFO
-- Sep 2015-Now. Ph.D. (supervised by Prof. [Ke Zhou](http://faculty.hust.edu.cn/zhouke2/zh_CN/index.htm)), Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, China.
+- Sep 2015-Mar 2021. Ph.D. (supervised by Prof. [Ke Zhou](http://faculty.hust.edu.cn/zhouke2/zh_CN/index.htm)), Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, China.
 - Sep 2011-Jul 2015. B.S., Faculty of Mathematics and Statistics, Hubei University, Wuhan, China.
 
 ## INTERNSHIP
@@ -14,7 +14,7 @@
  <li><strong>Yangtao Wang</strong>, Jingkuan Song, Ke Zhou and Yu Liu*. Unsupervised Deep Hashing with Node Representation for Image Retrieval[J]. Pattern Recognition (CCF B, JCR Q1).<a href="https://www.sciencedirect.com/science/article/pii/S0031320320305884?dgcid=coauthor"><strong><font color="#267cb9">pdf</font></strong></a></li> 
  
  <li>Yu Liu, <strong>Yangtao Wang*</strong>, Lianli Gao, Chan Guo, Yanzhao Xie and Zhili Xiao. Deep Hash Based Relevance-Aware Data Quality Assessment
-for Image Dark Data[J]. ACM Transactions on Data Science (<strong>Corresponding author</strong>).<a href="https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>
+for Image Dark Data[J]. ACM Transactions on Data Science (<strong>Corresponding author</strong>).<a href="https://dl.acm.org/doi/pdf/10.1145/3420038"><strong><font color="#267cb9">pdf</font></strong></a></li>
  
  <li><strong>Yangtao Wang</strong>, Yanzhao Xie, Yu Liu*, Ke Zhou and Xiaocui Li. Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion[C]. CIKM 2020 (CCF B).<a href="https://dl.acm.org/doi/pdf/10.1145/3340531.3411880"><strong><font color="#267cb9">pdf</font></strong></a></li>  
  
@@ -58,6 +58,8 @@ for Image Dark Data[J]. ACM Transactions on Data Science (<strong>Corresponding 
 <!--<li><strong>Yangtao Wang</strong>, Yanzhao Xie, Jingkuan Song, Ke Zhou and Yu Liu*. CFMIC: Cross-modal Fusion for Multi-label Image Classification with Attention Mechanism[J]. IEEE Transactions on Multimedia (CCF B, JCR Q1).</li>-->
 
 <!--<li><strong>Yangtao Wang</strong>, Yanzhao Xie, Yu Liu* and Ke Zhou. G-CAM: Graph Convolution Network Based Class Activation Mapping for Multi-label Image Recognition[C]. AAAI 2021 (CCF A).</li>-->
+
+<!--https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf-->
 
 <li>Yanzhao Xie, <strong>Yangtao Wang</strong>, Yu Liu and Ke Zhou. Label Graph Learning for Multi-label Image Recognition with Cross-modal Fusion[C]. ICME 2021 (CCF B).</li>
 
