@@ -11,14 +11,14 @@
 ## PUBLICATIONS
 - ***Accepted***
 <ol>
- <li><strong>Yangtao Wang</strong>, Jingkuan Song, Ke Zhou and Yu Liu*. Unsupervised Deep Hashing with Node Representation for Image Retrieval[J]. Pattern Recognition (CCF B, JCR Q1).<a href="https://www.sciencedirect.com/science/article/pii/S0031320320305884?dgcid=coauthor"><strong><font color="#267cb9">pdf</font></strong></a></li> 
+ <li><strong>Yangtao Wang</strong>, Jingkuan Song, Ke Zhou and Yu Liu*. Unsupervised deep hashing with node representation for image retrieval[J]. Pattern Recognition (CCF B, JCR Q1).<a href="https://www.sciencedirect.com/science/article/pii/S0031320320305884?dgcid=coauthor"><strong><font color="#267cb9">pdf</font></strong></a></li> 
  
- <li>Yu Liu, <strong>Yangtao Wang*</strong>, Lianli Gao, Chan Guo, Yanzhao Xie and Zhili Xiao. Deep Hash Based Relevance-Aware Data Quality Assessment
+ <li>Yu Liu, <strong>Yangtao Wang*</strong>, Lianli Gao, Chan Guo, Yanzhao Xie and Zhili Xiao. Deep Hash-based Relevance-aware Data Quality Assessment
 for Image Dark Data[J]. ACM Transactions on Data Science (<strong>Corresponding author</strong>).<a href="https://dl.acm.org/doi/pdf/10.1145/3420038"><strong><font color="#267cb9">pdf</font></strong></a></li>
  
  <li><strong>Yangtao Wang</strong>, Yanzhao Xie, Yu Liu*, Ke Zhou and Xiaocui Li. Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion[C]. CIKM 2020 (CCF B).<a href="https://dl.acm.org/doi/pdf/10.1145/3340531.3411880"><strong><font color="#267cb9">pdf</font></strong></a></li>  
  
- <li>Xiaocui Li, Ke Zhou, Chunhua Li*, Xinyu Zhang, Yu Liu and <strong>Yangtao Wang</strong>. Multi-view Clustering via Neighbor Domain Correlation Learning[J]. Neural Computing & Applications (CCF C, JCR Q1).<a href="https://link.springer.com/content/pdf/10.1007/s00521-020-05185-y.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>   
+ <li>Xiaocui Li, Ke Zhou, Chunhua Li*, Xinyu Zhang, Yu Liu and <strong>Yangtao Wang</strong>. Multi-view clustering via neighbor domain correlation learning[J]. Neural Computing & Applications (CCF C, JCR Q1).<a href="https://link.springer.com/content/pdf/10.1007/s00521-020-05185-y.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>   
   
 <li>Yanzhao Xie, Yu Liu*, <strong>Yangtao Wang</strong>, Lianli Gao, Peng Wang and Ke Zhou. Label-Attended Hashing for Multi-Label Image Retrieval[C]. IJCAI 2020 (CCF A).<a href="https://www.ijcai.org/Proceedings/2020/0133.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li> 
   
