@@ -14,7 +14,7 @@
 ## PUBLICATIONS
 - ***Accepted***
 <ol>
- <li><strong>Yangtao Wang</strong>, Yanzhao Xie, and Yu Liu. G-CAM: Graph Convolution Network Based Class Activation Mapping for Multi-label Image Recognition[C]. ICMR 2021 (CCF B).<a href="https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>  
+ <li><strong>Yangtao Wang</strong>, Yanzhao Xie, Yu Liu and Lisheng Fan. G-CAM: Graph Convolution Network Based Class Activation Mapping for Multi-label Image Recognition[C]. ICMR 2021 (CCF B).<a href="https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>  
  
  <li><strong>Yangtao Wang</strong>, Jingkuan Song, Ke Zhou and Yu Liu*. Unsupervised deep hashing with node representation for image retrieval[J]. Pattern Recognition (CCF B, JCR Q1).<a href="https://www.sciencedirect.com/science/article/pii/S0031320320305884?dgcid=coauthor"><strong><font color="#267cb9">pdf</font></strong></a></li> 
  
