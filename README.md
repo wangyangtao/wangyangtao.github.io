@@ -32,13 +32,13 @@ for Image Dark Data[J]. ACM Transactions on Data Science (<strong>Corresponding 
 
 <li>Ji Zhang, Yuanzhang Wang, <strong>Yangtao Wang</strong>, Ke Zhou*, Schelter Sebastian, Ping Huang, Bin Cheng and Yongguang Ji. Tier-Scrubbing: An Adaptive and Tiered Disk Scrubbing Scheme with Improved MTTD and Reduced Cost[C]. DAC 2020 (CCF A).<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9218551"><strong><font color="#267cb9">pdf</font></strong></a></li>  
 
-<li>Ke Zhou, <strong>Yangtao Wang</strong>, Yu Liu*, Yujuan Yang, Yifei Liu, Guoliang Li, Lianli Gao and Zhili Xiao. A Framework for Image Dark Data Assessment[J]. World Wide Web  (CCF B, JCR Q1). <a href="https://link.springer.com/content/pdf/10.1007/s11280-020-00779-x.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>
+<li>Ke Zhou, <strong>Yangtao Wang</strong>, Yu Liu*, Yujuan Yang, Yifei Liu, Guoliang Li, Lianli Gao and Zhili Xiao. A framework for image dark data assessment[J]. World Wide Web  (CCF B, JCR Q1). <a href="https://link.springer.com/content/pdf/10.1007/s11280-020-00779-x.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
 <li>Yu Zhang, Ke Zhou, Ping Huang, Hua Wang*, Jianying Hu, <strong>Yangtao Wang</strong>, Yongguang Ji and Bin Cheng. A Machine Learning Based Write Policy for SSD Cache in Cloud Block Storage[C]. DATE 2020 (CCF B). <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9116539"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
-<li>Xiaocui Li, <strong>Yangtao Wang</strong>, Jingkuan Song, Yu Liu, Xinyu Zhang, Ke Zhou and Chunhua Li*. A Low Cost and Un-Cancelled Laplace Noise Based Differential Privacy Algorithm for Spatial Decompositions[J]. World Wide Web (CCF B, JCR Q1). <a href="https://link.springer.com/content/pdf/10.1007/s11280-019-00769-8.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>
+<li>Xiaocui Li, <strong>Yangtao Wang</strong>, Jingkuan Song, Yu Liu, Xinyu Zhang, Ke Zhou and Chunhua Li*. A low cost and un-cancelled laplace noise based differential privacy algorithm for spatial decompositions[J]. World Wide Web (CCF B, JCR Q1). <a href="https://link.springer.com/content/pdf/10.1007/s11280-019-00769-8.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
-<li>Yu Liu, <strong>Yangtao Wang</strong>, Ke Zhou*, Yujuan Yang and Yifei Liu. Semantic-aware Data Quality Assessment for Image Big Data[J]. Future Generation Computer Systems (CCF C, JCR Q1). <a href="https://www.sciencedirect.com/science/article/pii/S0167739X19302304"><strong><font color="#267cb9">pdf</font></strong></a></li>
+<li>Yu Liu, <strong>Yangtao Wang</strong>, Ke Zhou*, Yujuan Yang and Yifei Liu. Semantic-aware data quality assessment for image big data[J]. Future Generation Computer Systems (CCF C, JCR Q1). <a href="https://www.sciencedirect.com/science/article/pii/S0167739X19302304"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
 
 <li><strong>Yangtao Wang</strong>, Yu Liu, Yifei Liu, Ke Zhou*, Yujuan Yang, Jiangfeng Zeng, Xiaodong Xu and Zhili Xiao. Analysis and Management to Hash-Based Graph and Rank[C]. APWeb-WAIM 2019 (CCF C). <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-26072-9_22.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>
