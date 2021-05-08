@@ -8,8 +8,9 @@
 - Sep 2015-Mar 2021. Ph.D. (supervised by Prof. [Ke Zhou](http://faculty.hust.edu.cn/zhouke2/zh_CN/index.htm)), Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, China.
 - Sep 2011-Jul 2015. B.S., Faculty of Mathematics and Statistics, Hubei University, Wuhan, China.
 
+<!--
 ## INTERNSHIP
-- May-Nov, 2019. Intern, Tencent Inc., Shenzhen, China.
+- May-Nov, 2019. Intern, Tencent Inc., Shenzhen, China.-->
 
 ## PUBLICATIONS
 - ***Accepted***
