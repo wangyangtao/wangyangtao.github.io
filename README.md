@@ -77,7 +77,7 @@ for Image Dark Data[J]. ACM/IMS Transactions on Data Science (<strong>Correspond
 ## CONTACT ME
 - **Address**: Room 608, Electronic information lab building, Guangzhou University, 230 Wai Huan Xi Road, Guangzhou Higher Education Mega Center, Guangzhou, China.
 - **Tel**: +86-13072780291
-- **Email**: ytaowang@gzhu.edu.cn
+- **Email**: ytaowang@gzhu.edu.cn; ytaowang@foxmail.com
 - **ORCID**: https://orcid.org/0000-0003-4605-9270
 
 
