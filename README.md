@@ -19,8 +19,8 @@
  
  <li><strong>Yangtao Wang</strong>, Jingkuan Song, Ke Zhou and Yu Liu*. Unsupervised deep hashing with node representation for image retrieval[J]. Pattern Recognition (CCF B, JCR Q1).<a href="https://www.sciencedirect.com/science/article/pii/S0031320320305884?dgcid=coauthor"><strong><font color="#267cb9">pdf</font></strong></a></li> 
  
- <li>Yu Liu, <strong>Yangtao Wang*</strong>, Lianli Gao, Chan Guo, Yanzhao Xie and Zhili Xiao. Deep Hash-based Relevance-aware Data Quality Assessment
-for Image Dark Data[J]. ACM/IMS Transactions on Data Science (<strong>Corresponding author</strong>).<a href="https://dl.acm.org/doi/pdf/10.1145/3420038"><strong><font color="#267cb9">pdf</font></strong></a></li>
+ <li>Yu Liu, <strong>Yangtao Wang* (Corresponding author)</strong>, Lianli Gao, Chan Guo, Yanzhao Xie and Zhili Xiao. Deep Hash-based Relevance-aware Data Quality Assessment
+for Image Dark Data[J]. ACM/IMS Transactions on Data Science.<a href="https://dl.acm.org/doi/pdf/10.1145/3420038"><strong><font color="#267cb9">pdf</font></strong></a></li>
  
  <li><strong>Yangtao Wang</strong>, Yanzhao Xie, Yu Liu*, Ke Zhou and Xiaocui Li. Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion[C]. CIKM 2020 (CCF B).<a href="https://dl.acm.org/doi/pdf/10.1145/3340531.3411880"><strong><font color="#267cb9">pdf</font></strong></a></li>  
  
