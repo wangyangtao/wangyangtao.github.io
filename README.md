@@ -67,7 +67,7 @@ for Image Dark Data[J]. ACM/IMS Transactions on Data Science.<a href="https://dl
 
 <!--https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf-->
 
-<li>Yanzhao Xie, <strong>Yangtao Wang* (Corresponding author)</strong>, Yu Liu and Ke Zhou. Label Graph Learning for Multi-label Image Recognition with Cross-modal Fusion[J]. Multimedia Tools and Applications (CCF C, JCR Q2).</li>
+<li>Yanzhao Xie, <strong>Yangtao Wang* (Corresponding author)</strong>, Yu Liu and Ke Zhou. Label Graph Learning for Multi-label Image Recognition with Cross-modal Fusion[J]. Multimedia Tools & Applications (CCF C, JCR Q2).</li>
 
 <li>Yanzhao Xie, <strong>Yangtao Wang* (Corresponding author)</strong>, Yu Liu, Ke Zhou and Lisheng Fan. CFMIC: Cross-modal Fusion for Multi-label Image Classification with Attention Mechanism[C]. PRICAI 2021 (CCF C).</li>
 
