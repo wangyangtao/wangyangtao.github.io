@@ -71,7 +71,7 @@ for Image Dark Data[J]. ACM/IMS Transactions on Data Science.<a href="https://dl
 
 <li>Yanzhao Xie, <strong>Yangtao Wang* (Corresponding author)</strong>, Yu Liu, Ke Zhou and Lisheng Fan. CFMIC: Cross-modal Fusion for Multi-label Image Classification with Attention Mechanism[C]. PRICAI 2021 (CCF C).</li>
  
- <li>Guangxing Hu, Yanzhao Xie, Yu Liu, <li><strong>Yangtao Wang</strong>, Zhiqiu Lin and Ke Zhou. How Visual Chirality Affects the Performance of Image Hashing[C]. ACM MM 2021 (CCF A).</li>
+ <li>Guangxing Hu, Yanzhao Xie, Yu Liu, <strong>Yangtao Wang</strong>, Zhiqiu Lin and Ke Zhou. How Visual Chirality Affects the Performance of Image Hashing[C]. ACM MM 2021 (CCF A).</li>
 
 
 </ol>
