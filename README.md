@@ -1,5 +1,5 @@
 ## BIOGRAPHY
-**[Yangtao Wang](https://github.com/wangyangtao)** is currently a full time lecturer at School of Computer Science and Cyber Engineering, Guangzhou University, Guangzhou, China. He received the Ph.D. degree from Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, China, in 2021. Prior to his Ph.D. journey, he received the B.S. degree from Faculty of Mathematics and Statistics, Hubei University, Wuhan, China, in 2015. His current main research interests include deep learning and image recognition. He has published papers in international conferences and journals including ADMA, SIGMOD, APWeb-WAIM, DATE, DAC, ICME, IJCAI, CIKM, ICMR, FGCS, WWWJ, NCA, ACM/IMS Transactions on Data Science, Pattern Recognition, etc. He got ADMA 2018 Best Student Paper Runner-up Award and APWeb-WAIM 2019 Best Paper Runner-up Award. He is serving as a review for *IEEE Access*, APWeb-WAIM 2020 and AAAI 2021.
+**[Yangtao Wang](https://github.com/wangyangtao)** is currently a full time lecturer at School of Computer Science and Cyber Engineering, Guangzhou University, Guangzhou, China. He received the Ph.D. degree from Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, China, in 2021. Prior to his Ph.D. journey, he received the B.S. degree from Faculty of Mathematics and Statistics, Hubei University, Wuhan, China, in 2015. His current main research interests include deep learning and image recognition. He has published papers in international conferences and journals including ADMA, SIGMOD, APWeb-WAIM, DATE, DAC, ICME, IJCAI, CIKM, ICMR, FGCS, WWWJ, NCA, ACM/IMS Transactions on Data Science, Pattern Recognition, etc. He got ADMA 2018 Best Student Paper Runner-up Award and APWeb-WAIM 2019 Best Paper Runner-up Award. He served as a review for *IEEE Access*, APWeb-WAIM 2020 and AAAI 2021.
 
 ## CAREER PATH
 - Apr 2021-Now. Lecturer, School of Computer Science and Cyber Engineering, Guangzhou University, Guangzhou, China.
@@ -70,6 +70,8 @@ for Image Dark Data[J]. ACM/IMS Transactions on Data Science.<a href="https://dl
 <li>Yanzhao Xie, <strong>Yangtao Wang* (Corresponding author)</strong>, Yu Liu and Ke Zhou. Label Graph Learning for Multi-label Image Recognition with Cross-modal Fusion[J]. Multimedia Tools & Applications (CCF C, JCR Q2).</li>
 
 <li>Yanzhao Xie, <strong>Yangtao Wang* (Corresponding author)</strong>, Yu Liu, Ke Zhou and Lisheng Fan. CFMIC: Cross-modal Fusion for Multi-label Image Classification with Attention Mechanism[C]. PRICAI 2021 (CCF C).</li>
+ 
+ <li>Guangxing Hu, Yanzhao Xie, Yu Liu, <li><strong>Yangtao Wang</strong>, Zhiqiu Lin and Ke Zhou. How Visual Chirality Affects the Performance of Image Hashing[C]. ACM MM 2021 (CCF A).</li>
 
 
 </ol>
