@@ -77,6 +77,7 @@ for Image Dark Data[J]. ACM/IMS Transactions on Data Science.<a href="https://dl
 </ol>
 
 ## PATENTS
+- ***已申请***
 <ol>
  <li><strong>汪洋涛</strong>，范立生，彭伟龙，谭伟强. 一种基于类激活映射机制的多标签图像分类方法和系统. 中国国家发明专利. 申请号：CN202110625124.9，申请日期：2021-06-04.</li>  
  
