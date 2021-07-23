@@ -77,7 +77,6 @@ for Image Dark Data[J]. ACM/IMS Transactions on Data Science.<a href="https://dl
 </ol>
 
 ## PATENTS
- 
 <ol>
  <li><strong>汪洋涛</strong>，范立生，彭伟龙，谭伟强. 一种基于类激活映射机制的多标签图像分类方法和系统. 中国国家发明专利. 申请号：CN202110625124.9，申请日期：2021-06-04.</li>  
  
@@ -100,7 +99,6 @@ for Image Dark Data[J]. ACM/IMS Transactions on Data Science.<a href="https://dl
  <li>周可，刘渝，<strong>汪洋涛</strong>. 一种图像检索方法和系统. 中国国家发明专利，申请号：CN201810637971.5，申请日期：2018-06-20.</li>
  
  <li>周可，王桦，唐文君，<strong>汪洋涛</strong>，李晓翠. 一种基于前位置矢量的差分隐私保护方法. 中国国家发明专利，申请号：CN201710623267.X，申请日期：2017-7-27.</li>
- 
  </ol>
 
 ## CONTACT ME
