@@ -42,18 +42,13 @@ for Image Dark Data[J]. ACM/IMS Transactions on Data Science. <a href="https://d
 
 <li>Yu Liu, <strong>Yangtao Wang</strong>, Ke Zhou*, Yujuan Yang and Yifei Liu. Semantic-aware data quality assessment for image big data[J]. Future Generation Computer Systems (CCF C, JCR Q1). <a href="https://www.sciencedirect.com/science/article/pii/S0167739X19302304"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
-
 <li><strong>Yangtao Wang</strong>, Yu Liu, Yifei Liu, Ke Zhou*, Yujuan Yang, Jiangfeng Zeng, Xiaodong Xu and Zhili Xiao. Analysis and Management to Hash-Based Graph and Rank[C]. APWeb-WAIM 2019 (CCF C). <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-26072-9_22.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>
-
 
 <li>Yu Liu, <strong>Yangtao Wang</strong>, Ke Zhou*, Yujuan Yang, Yifei Liu, Jingkuan Song and Zhili Xiao. A Framework for Image Dark Data Assessment[C]. APWeb-WAIM 2019 (Best Paper Runner-up) (CCF C). <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-26072-9_1.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
-
 <li>Jiangfeng Zeng, Ming Yang, Ke Zhou*, Xiao Ma, <strong>Yangtao Wang</strong>, Xiaodong Xu and Zhili Xiao. Improved Review Sentiment Analysis with A Syntax-aware Encoder[C]. APWeb-WAIM 2019 (CCF C). <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-26075-0_6.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
-
 <li>Ji Zhang, Yu Liu, Ke Zhou*, Guoliang Li, Zhili Xiao, Bin Chen, Jiashu Xing, <strong>Yangtao Wang</strong>, Tianheng Chen, Li Liu, Minwei Ran and Zekang Li. An End-to-End Automatic Cloud Database Tuning System Using Deep Reinforcement Learning[C]. SIGMOD 2019 (CCF A). <a href="https://dl.acm.org/doi/pdf/10.1145/3299869.3300085"><strong><font color="#267cb9">pdf</font></strong></a></li>
-
 
 <li>Xiaocui Li, <strong>Yangtao Wang</strong>, Xinyu Zhang, Ke Zhou* and Chunhua Li. A More Secure Spatial Decompositions Algorithm via Indefeasible Laplace Noise in Differential Privacy[C]. ADMA 2018 (Best Student Paper Runner-up). <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-05090-0_19.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
@@ -77,26 +72,17 @@ for Image Dark Data[J]. ACM/IMS Transactions on Data Science. <a href="https://d
 
 ## PATENTS
 - ***已申请***
-<ol><li><strong>汪洋涛</strong>，范立生，彭伟龙，谭伟强. 一种基于类激活映射机制的多标签图像分类方法和系统. 中国国家发明专利. 申请号：CN202110625124.9，申请日期：2021-06-04.</li>  
- 
+<ol>
+<li><strong>汪洋涛</strong>，范立生，彭伟龙，谭伟强. 一种基于类激活映射机制的多标签图像分类方法和系统. 中国国家发明专利. 申请号：CN202110625124.9，申请日期：2021-06-04.</li>  
 <li>刘渝，<strong>汪洋涛</strong>，谢延昭，周可，夏天，冯树耀. 一种多标签图像的哈希码生成方法和系统. 中国国家发明专利. 申请号：CN202011226768.2，申请日期：2020-11-05.</li>  
- 
 <li><strong>汪洋涛</strong>，刘渝，李春花，牛中盈，王冲，周可. 一种基于节点表征的无监督深度哈希模型训练方法及图像检索方法. 中国国家发明专利. 申请号：CN202011100519.2，申请日期：2020-10-15.</li>  
- 
 <li>刘渝，<strong>汪洋涛</strong>，谢延昭，李春花，王冲，牛中盈，周可. 一种基于跨模态的快速多标签图像分类方法和系统. 中国国家发明专利. 申请号：CN202011100518.8，申请日期：2020-10-15.</li>
- 
 <li>刘渝，<strong>汪洋涛</strong>，周可，管飞宇，夏天. 二阶相似感知的图像哈希码提取模型建立方法及其应用. 中国国家发明专利. 申请号：CN202011059408.8，申请日期：2020-09-30.</li>
- 
 <li>周可，刘渝，<strong>汪洋涛</strong>，管飞宇. 一种内容筛选存储方法及系统. 中国国家发明专利. 申请号：CN202010819959.3，申请日期：2020-08-14.</li>
- 
 <li>周可，刘渝，杨玉娟，王桦，李春花，<strong>汪洋涛</strong>，刘毅斐. 一种基于相似性哈希的图像暗数据价值评估方法. 中国国家发明专利，申请号：CN201910557932.9，申请日期：2019-06-26.</li>
- 
 <li>周可，刘毅斐，刘渝，<strong>汪洋涛</strong>，杨玉娟. 一种基于内容语义元数据的图像查询方法与系统. 中国国家发明专利，申请号：CN201910546661.7，申请日期：2019-06-24.  </li>
- 
 <li>周可，李春花，李晓翠，<strong>汪洋涛</strong>. 一种差分隐私空间分解方法与系统. 中国国家发明专利，申请号：CN201811090763.4，申请日期：2018-09-19.</li>
- 
 <li>周可，刘渝，<strong>汪洋涛</strong>. 一种图像检索方法和系统. 中国国家发明专利，申请号：CN201810637971.5，申请日期：2018-06-20.</li>
- 
 <li>周可，王桦，唐文君，<strong>汪洋涛</strong>，李晓翠. 一种基于前位置矢量的差分隐私保护方法. 中国国家发明专利，申请号：CN201710623267.X，申请日期：2017-7-27.</li>
 </ol>
 
