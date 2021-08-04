@@ -62,7 +62,7 @@ for Image Dark Data[J]. ACM/IMS Transactions on Data Science. <a href="https://d
 
 <!--https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf-->
  
-<li><strong>Yangtao Wang* (Corresponding author)</strong>, Yanzhao Xie, Lisheng Fan and Guangxing Hu. STMG: Swin transformer for multi-label image recognition with graph convolution network[J]. Neural Computing and Applications (CCF C, JCR Q1).</li>
+<li><strong>Yangtao Wang</strong>, Yanzhao Xie*, Lisheng Fan and Guangxing Hu. STMG: Swin transformer for multi-label image recognition with graph convolution network[J]. Neural Computing and Applications (CCF C, JCR Q1).</li>
 
 <li>Yanzhao Xie, <strong>Yangtao Wang* (Corresponding author)</strong>, Yu Liu and Ke Zhou. Label Graph Learning for Multi-label Image Recognition with Cross-modal Fusion[J]. Multimedia Tools and Applications (CCF C, JCR Q2).</li>
 
