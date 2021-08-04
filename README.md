@@ -61,8 +61,10 @@ for Image Dark Data[J]. ACM/IMS Transactions on Data Science. <a href="https://d
 <!--<li><strong>Yangtao Wang</strong>, Yanzhao Xie, Yu Liu* and Ke Zhou. G-CAM: Graph Convolution Network Based Class Activation Mapping for Multi-label Image Recognition[C]. AAAI 2021 (CCF A).</li>-->
 
 <!--https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf-->
+ 
+<li><strong>Yangtao Wang* (Corresponding author)</strong>, Yanzhao Xie, Lisheng Fan and Guangxing Hu. STMG: Swin transformer for multi-label image recognition with graph convolution network[J]. Neural Computing and Applications (CCF C, JCR Q1).</li>
 
-<li>Yanzhao Xie, <strong>Yangtao Wang* (Corresponding author)</strong>, Yu Liu and Ke Zhou. Label Graph Learning for Multi-label Image Recognition with Cross-modal Fusion[J]. Multimedia Tools & Applications (CCF C, JCR Q2).</li>
+<li>Yanzhao Xie, <strong>Yangtao Wang* (Corresponding author)</strong>, Yu Liu and Ke Zhou. Label Graph Learning for Multi-label Image Recognition with Cross-modal Fusion[J]. Multimedia Tools and Applications (CCF C, JCR Q2).</li>
 
 <li>Yanzhao Xie, <strong>Yangtao Wang* (Corresponding author)</strong>, Yu Liu, Ke Zhou and Lisheng Fan. CFMIC: Cross-modal Fusion for Multi-label Image Classification with Attention Mechanism[C]. PRICAI 2021 (CCF C).</li>
  
