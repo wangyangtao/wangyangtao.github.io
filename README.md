@@ -24,7 +24,7 @@ for Image Dark Data[J]. ACM/IMS Transactions on Data Science. <a href="https://d
  
  <li><strong>Yangtao Wang</strong>, Yanzhao Xie, Yu Liu*, Ke Zhou and Xiaocui Li. Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion[C]. CIKM 2020 (CCF B). <a href="https://dl.acm.org/doi/pdf/10.1145/3340531.3411880"><strong><font color="#267cb9">pdf</font></strong></a></li>  
  
- <li>Xiaocui Li, Ke Zhou, Chunhua Li*, Xinyu Zhang, Yu Liu and <strong>Yangtao Wang</strong>. Multi-view clustering via neighbor domain correlation learning[J]. Neural Computing & Applications (CCF C, JCR Q1). <a href="https://link.springer.com/content/pdf/10.1007/s00521-020-05185-y.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>   
+ <li>Xiaocui Li, Ke Zhou, Chunhua Li*, Xinyu Zhang, Yu Liu and <strong>Yangtao Wang</strong>. Multi-view clustering via neighbor domain correlation learning[J]. Neural Computing and Applications (CCF C, JCR Q1). <a href="https://link.springer.com/content/pdf/10.1007/s00521-020-05185-y.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>   
   
 <li>Yanzhao Xie, Yu Liu*, <strong>Yangtao Wang</strong>, Lianli Gao, Peng Wang and Ke Zhou. Label-Attended Hashing for Multi-Label Image Retrieval[C]. IJCAI 2020 (CCF A). <a href="https://www.ijcai.org/Proceedings/2020/0133.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li> 
   
@@ -34,11 +34,11 @@ for Image Dark Data[J]. ACM/IMS Transactions on Data Science. <a href="https://d
 
 <li>Ji Zhang, Yuanzhang Wang, <strong>Yangtao Wang</strong>, Ke Zhou*, Schelter Sebastian, Ping Huang, Bin Cheng and Yongguang Ji. Tier-Scrubbing: An Adaptive and Tiered Disk Scrubbing Scheme with Improved MTTD and Reduced Cost[C]. DAC 2020 (CCF A). <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9218551"><strong><font color="#267cb9">pdf</font></strong></a></li>  
 
-<li>Ke Zhou, <strong>Yangtao Wang</strong>, Yu Liu*, Yujuan Yang, Yifei Liu, Guoliang Li, Lianli Gao and Zhili Xiao. A framework for image dark data assessment[J]. World Wide Web  (CCF B, JCR Q1). <a href="https://link.springer.com/content/pdf/10.1007/s11280-020-00779-x.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>
+<li>Ke Zhou, <strong>Yangtao Wang</strong>, Yu Liu*, Yujuan Yang, Yifei Liu, Guoliang Li, Lianli Gao and Zhili Xiao. A framework for image dark data assessment[J]. World Wide Web Journal (CCF B, JCR Q1). <a href="https://link.springer.com/content/pdf/10.1007/s11280-020-00779-x.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
 <li>Yu Zhang, Ke Zhou, Ping Huang, Hua Wang*, Jianying Hu, <strong>Yangtao Wang</strong>, Yongguang Ji and Bin Cheng. A Machine Learning Based Write Policy for SSD Cache in Cloud Block Storage[C]. DATE 2020 (CCF B). <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9116539"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
-<li>Xiaocui Li, <strong>Yangtao Wang</strong>, Jingkuan Song, Yu Liu, Xinyu Zhang, Ke Zhou and Chunhua Li*. A low cost and un-cancelled laplace noise based differential privacy algorithm for spatial decompositions[J]. World Wide Web (CCF B, JCR Q1). <a href="https://link.springer.com/content/pdf/10.1007/s11280-019-00769-8.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>
+<li>Xiaocui Li, <strong>Yangtao Wang</strong>, Jingkuan Song, Yu Liu, Xinyu Zhang, Ke Zhou and Chunhua Li*. A low cost and un-cancelled laplace noise based differential privacy algorithm for spatial decompositions[J]. World Wide Web Journal (CCF B, JCR Q1). <a href="https://link.springer.com/content/pdf/10.1007/s11280-019-00769-8.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
 <li>Yu Liu, <strong>Yangtao Wang</strong>, Ke Zhou*, Yujuan Yang and Yifei Liu. Semantic-aware data quality assessment for image big data[J]. Future Generation Computer Systems (CCF C, JCR Q1). <a href="https://www.sciencedirect.com/science/article/pii/S0167739X19302304"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
