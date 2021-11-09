@@ -60,7 +60,7 @@ for Image Dark Data[J]. ACM/IMS Transactions on Data Science. <a href="https://d
 
 <!--https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf-->
  
- <li>Yanzhao Xie, Rukai Wei, Jingkuan Song, Yu Liu*, <li><strong>Yangtao Wang* (Corresponding author)</strong> and Ke Zhou. Label-Affinity Self-Adaptive Central Similarity Hashing[C]. CVPR 2022 (CCF A).</li>
+ <li>Yanzhao Xie, Rukai Wei, Jingkuan Song, Yu Liu*, <strong>Yangtao Wang* (Corresponding author)</strong> and Ke Zhou. Label-Affinity Self-Adaptive Central Similarity Hashing[C]. CVPR 2022 (CCF A).</li>
  
  <li><strong>Yangtao Wang</strong>, Yanzhao Xie, Jiangfeng Zeng*, Hanpin Wang, Lisheng Fan and Yufan Song. Cross-modal Fusion for Multi-label Image Classification with Attention Mechanism[J]. Computers and Electrical Engineering (JCR Q2).</li>
  
