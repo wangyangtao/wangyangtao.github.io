@@ -53,9 +53,10 @@ for Image Dark Data[J]. ACM/IMS Transactions on Data Science. <a href="https://d
 <li>Xiaocui Li, <strong>Yangtao Wang</strong>, Xinyu Zhang, Ke Zhou* and Chunhua Li. A More Secure Spatial Decompositions Algorithm via Indefeasible Laplace Noise in Differential Privacy[C]. ADMA 2018 (Best Student Paper Runner-up). <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-05090-0_19.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>
 </ol>
 
+
+<!--
 - ***Under review***
 <ol>
-<!--<li><strong>Yangtao Wang</strong>, Yanzhao Xie, Jingkuan Song, Ke Zhou and Yu Liu*. CFMIC: Cross-modal Fusion for Multi-label Image Classification with Attention Mechanism[J]. IEEE Transactions on Multimedia (CCF B, JCR Q1).</li>-->
 
 <!--https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf-->
  
@@ -71,6 +72,7 @@ for Image Dark Data[J]. ACM/IMS Transactions on Data Science. <a href="https://d
  
  <!--<li>Guangxing Hu, Yanzhao Xie, Yu Liu, <strong>Yangtao Wang</strong>, Zhiqiu Lin and Ke Zhou. How Visual Chirality Affects the Performance of Image Hashing[C]. ACM MM 2021 (CCF A).</li>-->
 </ol>
+-->
 
 
 
