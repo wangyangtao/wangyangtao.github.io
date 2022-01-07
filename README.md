@@ -94,7 +94,6 @@ for Image Dark Data[J]. ACM/IMS Transactions on Data Science. <a href="https://d
 <ol>
 <li>Ke ZHOU, Yu LIU, Yujuan YANG, Hua WANG, Chunhua LI, <strong>Yangtao WANG</strong>, Yifei LIU. Method for valuation of image dark data based on similarity hashing. US 11138479B2.  </li>
 <li>周可，刘毅斐，刘渝，<strong>汪洋涛</strong>，杨玉娟. 一种基于内容语义元数据的图像查询方法与系统. 中国国家发明专利，授权公布号：CN110413807B，授权公告日：2021-04-20.  </li>
-<li>周可，刘毅斐，刘渝，<strong>汪洋涛</strong>，杨玉娟. 一种基于内容语义元数据的图像查询方法与系统. 中国国家发明专利，授权公布号：CN110413807B，授权公告日：2021-04-20.  </li>
 <li>周可，李春花，李晓翠，<strong>汪洋涛</strong>. 一种差分隐私空间分解方法与系统. 中国国家发明专利，授权公布号：CN109241774B，授权公告日：2020-11-10.</li>
 <li>周可，王桦，唐文君，<strong>汪洋涛</strong>，李晓翠. 一种基于前位置矢量的差分隐私保护方法. 中国国家发明专利，授权公布号：CN107493268B，授权公告日：2019-05-31.</li>
 </ol>
