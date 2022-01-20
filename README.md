@@ -59,19 +59,25 @@ for Image Dark Data[J]. ACM/IMS Transactions on Data Science. <a href="https://d
 
 <!--https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf-->
  
- <li>Yanzhao Xie, Rukai Wei, Jingkuan Song, Yu Liu*, <strong>Yangtao Wang* (Corresponding author)</strong> and Ke Zhou. Label-Affinity Self-Adaptive Central Similarity Hashing[C]. CVPR 2022 (CCF A).</li>
+<li>Yanzhao Xie, Rukai Wei, Jingkuan Song, Yu Liu*, <strong>Yangtao Wang* (Corresponding author)</strong> and Ke Zhou. Label-Affinity Self-Adaptive Central Similarity Hashing[C]. CVPR 2022 (CCF A).</li>
  
- <!--
- <li><strong>Yangtao Wang</strong>, Yanzhao Xie, Jiangfeng Zeng*, Hanpin Wang, Lisheng Fan and Yufan Song. Cross-modal Fusion for Multi-label Image Classification with Attention Mechanism[J]. Computers and Electrical Engineering (JCR Q2).</li>
+<!--
+<li><strong>Yangtao Wang</strong>, Yanzhao Xie* and Lisheng Fan. Adaptive Graph Convolution Network Based Class Activation Mapping for Multi-label Image Recognition[J]. ACM Transactions on Multimedia Computing, Communications, and Applications (CCF B, JCR Q1).</li>  
 -->
  
- <!--
+<!--
+<li><strong>Yangtao Wang</strong>, Yanzhao Xie, Jiangfeng Zeng*, Hanpin Wang, Lisheng Fan and Yufan Song. Cross-modal Fusion for Multi-label Image Classification with Attention Mechanism[J]. Computers and Electrical Engineering (JCR Q2).</li>
+-->
+ 
+<!--
 <li><strong>Yangtao Wang</strong>, Yanzhao Xie*, Lisheng Fan and Guangxing Hu. STMG: Swin transformer for multi-label image recognition with graph convolution network[J]. Neural Computing and Applications (CCF C, JCR Q1).</li>
 -->
 
 <li>Yanzhao Xie, <strong>Yangtao Wang* (Corresponding author)</strong>, Yu Liu and Ke Zhou. Label Graph Learning for Multi-label Image Recognition with Cross-modal Fusion[J]. Multimedia Tools and Applications (CCF C, JCR Q2).</li>
 
-<!--<li>Yanzhao Xie, <strong>Yangtao Wang* (Corresponding author)</strong>, Yu Liu, Ke Zhou and Lisheng Fan. CFMIC: Cross-modal Fusion for Multi-label Image Classification with Attention Mechanism[C]. PRICAI 2021 (CCF C).</li>-->
+<!--
+<li>Yanzhao Xie, <strong>Yangtao Wang* (Corresponding author)</strong>, Yu Liu, Ke Zhou and Lisheng Fan. CFMIC: Cross-modal Fusion for Multi-label Image Classification with Attention Mechanism[C]. PRICAI 2021 (CCF C).</li>
+-->
  
 </ol>
 
