@@ -108,6 +108,11 @@ for Image Dark Data[J]. ACM/IMS Transactions on Data Science. <a href="https://d
 <li>周可，王桦，唐文君，<strong>汪洋涛</strong>，李晓翠. 一种基于前位置矢量的差分隐私保护方法. 中国国家发明专利，授权公布号：CN107493268B，授权公告日：2019-05-31.</li>
 </ol>
 
+## Teaching
+- Discrete Mathematics
+- Artifical Intelligence
+- Machine Learning
+
 ## CONTACT ME
 - **Address**: Room 608, Electronic Information Lab Building, Guangzhou University, 230 Wai Huan Xi Road, Guangzhou Higher Education Mega Center, Guangzhou, China.
 - **Tel**: +86-13072780291
