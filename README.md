@@ -110,7 +110,7 @@ for Image Dark Data[J]. ACM/IMS Transactions on Data Science. <a href="https://d
 
 ## Teaching
 - Discrete Mathematics
-- Artifical Intelligence
+- Artificial Intelligence Principles
 - Machine Learning
 
 ## CONTACT ME
