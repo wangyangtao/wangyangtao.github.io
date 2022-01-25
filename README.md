@@ -15,7 +15,7 @@
 ## PUBLICATIONS
 - ***Accepted***
 <ol>
- <li>Yanzhao Xie, <strong>Yangtao Wang* (Corresponding author)</strong>, Yu Liu and Ke Zhou. Label Graph Learning for Multi-label Image Recognition with Cross-modal Fusion[J]. Multimedia Tools and Applications (CCF C, JCR Q2). <a href="https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf">pdf</font></strong></a></li>
+ <li>Yanzhao Xie, <strong>Yangtao Wang* (Corresponding author)</strong>, Yu Liu and Ke Zhou. Label Graph Learning for Multi-label Image Recognition with Cross-modal Fusion[J]. Multimedia Tools and Applications (CCF C, JCR Q2). <a href="https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>  
  
  <li><strong>Yangtao Wang</strong>, Yanzhao Xie*, Yu Liu and Lisheng Fan. G-CAM: Graph Convolution Network Based Class Activation Mapping for Multi-label Image Recognition[C]. ICMR 2021 (CCF B). <a href="https://dl.acm.org/doi/pdf/10.1145/3460426.3463620"><strong><font color="#267cb9">pdf</font></strong></a></li>  
  
