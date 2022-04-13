@@ -61,8 +61,10 @@ for Image Dark Data[J]. ACM/IMS Transactions on Data Science. <a href="https://d
 
 <!--https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf-->
  
+ <!--
 <li>Yanzhao Xie, Rukai Wei, Jingkuan Song, Yu Liu*, <strong>Yangtao Wang* (Corresponding author)</strong> and Ke Zhou. Label-Affinity Self-Adaptive Central Similarity Hashing for Image Retrieval[C]. SIGIR 2022 (CCF A).</li>
- 
+--> 
+
 <!--
 <li><strong>Yangtao Wang</strong>, Yanzhao Xie* and Lisheng Fan. Adaptive Graph Convolution Network Based Class Activation Mapping for Multi-label Image Recognition[J]. ACM Transactions on Multimedia Computing, Communications, and Applications (CCF B, JCR Q1).</li>  
 -->
