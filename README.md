@@ -25,12 +25,11 @@
  
  <li><strong>Yangtao Wang</strong>, Jingkuan Song, Ke Zhou and Yu Liu*. Unsupervised deep hashing with node representation for image retrieval[J]. Pattern Recognition (CCF B, JCR Q1). <a href="https://www.sciencedirect.com/science/article/pii/S0031320320305884?dgcid=coauthor"><strong><font color="#267cb9">pdf</font></strong></a></li> 
  
- <li>Yu Liu, <strong>Yangtao Wang* (Corresponding author)</strong>, Lianli Gao, Chan Guo, Yanzhao Xie and Zhili Xiao. Deep Hash-based Relevance-aware Data Quality Assessment
-for Image Dark Data[J]. ACM/IMS Transactions on Data Science. <a href="https://dl.acm.org/doi/pdf/10.1145/3420038"><strong><font color="#267cb9">pdf</font></strong></a></li>
+ <li>Yu Liu, <strong>Yangtao Wang* (Corresponding author)</strong>, Lianli Gao, Chan Guo, Yanzhao Xie and Zhili Xiao. Deep Hash-based Relevance-aware Data Quality Assessment for Image Dark Data[J]. ACM/IMS Transactions on Data Science. <a href="https://dl.acm.org/doi/pdf/10.1145/3420038"><strong><font color="#267cb9">pdf</font></strong></a></li>
  
  <li><strong>Yangtao Wang</strong>, Yanzhao Xie, Yu Liu*, Ke Zhou and Xiaocui Li. Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion[C]. CIKM 2020 (CCF B). <a href="https://dl.acm.org/doi/pdf/10.1145/3340531.3411880"><strong><font color="#267cb9">pdf</font></strong></a></li>  
  
- <li>Xiaocui Li, Ke Zhou, Chunhua Li*, Xinyu Zhang, Yu Liu and <strong>Yangtao Wang</strong>. Multi-view clustering via neighbor domain correlation learning[J]. Neural Computing and Applications (CCF C, JCR Q1). <a href="https://link.springer.com/content/pdf/10.1007/s00521-020-05185-y.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>   
+ <li>Xiaocui Li, Ke Zhou, Chunhua Li*, Xinyu Zhang, Yu Liu and <strong>Yangtao Wang</strong>. Multi-view clustering via neighbor domain correlation learning[J]. Neural Computing and Applications (JCR Q1). <a href="https://link.springer.com/content/pdf/10.1007/s00521-020-05185-y.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>   
   
 <li>Yanzhao Xie, Yu Liu*, <strong>Yangtao Wang</strong>, Lianli Gao, Peng Wang and Ke Zhou. Label-Attended Hashing for Multi-Label Image Retrieval[C]. IJCAI 2020 (CCF A). <a href="https://www.ijcai.org/Proceedings/2020/0133.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li> 
   
@@ -46,7 +45,7 @@ for Image Dark Data[J]. ACM/IMS Transactions on Data Science. <a href="https://d
 
 <li>Xiaocui Li, <strong>Yangtao Wang</strong>, Jingkuan Song, Yu Liu, Xinyu Zhang, Ke Zhou and Chunhua Li*. A low cost and un-cancelled laplace noise based differential privacy algorithm for spatial decompositions[J]. World Wide Web Journal (CCF B, JCR Q1). <a href="https://link.springer.com/content/pdf/10.1007/s11280-019-00769-8.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
-<li>Yu Liu, <strong>Yangtao Wang</strong>, Ke Zhou*, Yujuan Yang and Yifei Liu. Semantic-aware data quality assessment for image big data[J]. Future Generation Computer Systems (CCF C, JCR Q1). <a href="https://www.sciencedirect.com/science/article/pii/S0167739X19302304"><strong><font color="#267cb9">pdf</font></strong></a></li>
+<li>Yu Liu, <strong>Yangtao Wang</strong>, Ke Zhou*, Yujuan Yang and Yifei Liu. Semantic-aware data quality assessment for image big data[J]. Future Generation Computer Systems (JCR Q1). <a href="https://www.sciencedirect.com/science/article/pii/S0167739X19302304"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
 <li><strong>Yangtao Wang</strong>, Yu Liu, Yifei Liu, Ke Zhou*, Yujuan Yang, Jiangfeng Zeng, Xiaodong Xu and Zhili Xiao. Analysis and Management to Hash-Based Graph and Rank[C]. APWeb-WAIM 2019 (CCF C). <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-26072-9_22.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
