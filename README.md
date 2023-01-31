@@ -15,6 +15,8 @@
 ## PUBLICATIONS
 - ***Accepted***
 <ol>
+ <li>Yanzhao Xie, <strong>Yangtao Wang* (Corresponding author)</strong>, Rukai Wei, Yu Liu, Ke Zhou and Lisheng Fan. A hash centroid construction method with Swin transformer for multi-label image retrieval[J]. Neural Computing and Applications (JCR Q1). <a href="https://trebuchet.public.springernature.app/get_content/2060a847-7cf2-41d6-b22b-fd845df0cd76"><strong><font color="#267cb9">pdf</font></strong></a></li>  
+
  <li><strong>Yangtao Wang</strong>, Yanzhao Xie, Jiangfeng Zeng*, Hanping Wang, Lisheng Fan and Yufan Song. Cross-modal fusion for multi-label image classification with attention mechanism[J]. Computers and Electrical Engineering (JCR Q2). <a href="https://www.sciencedirect.com/science/article/pii/S0045790622002701?via%3Dihub"><strong><font color="#267cb9">pdf</font></strong></a></li>  
  
   <li><strong>Yangtao Wang</strong>, Yanzhao Xie*, Lisheng Fan and Guangxing Hu. STMG: Swin transformer for multi-label image recognition with graph convolution network[J]. Neural Computing and Applications (JCR Q1). <a href="https://link.springer.com/content/pdf/10.1007/s00521-022-06990-3.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>  
