@@ -15,6 +15,8 @@
 ## PUBLICATIONS
 - ***Accepted***
 <ol>
+ <li>Yanzhao Xie, Rukai Wei, Jingkuan Song, Yu Liu, <strong>Yangtao Wang* (Corresponding author)</strong> and Ke Zhou. Label-affinity Self-adaptive Central Similarity Hashing for Image Retrieval[J]. IEEE Transactions on Multimedia (CCF B). <a href="https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li> 
+
  <li>Yanzhao Xie, <strong>Yangtao Wang* (Corresponding author)</strong>, Rukai Wei, Yu Liu, Ke Zhou and Lisheng Fan. A hash centroid construction method with Swin transformer for multi-label image retrieval[J]. Neural Computing and Applications (JCR Q1). <a href="https://trebuchet.public.springernature.app/get_content/2060a847-7cf2-41d6-b22b-fd845df0cd76"><strong><font color="#267cb9">pdf</font></strong></a></li>  
 
  <li><strong>Yangtao Wang</strong>, Yanzhao Xie, Jiangfeng Zeng*, Hanping Wang, Lisheng Fan and Yufan Song. Cross-modal fusion for multi-label image classification with attention mechanism[J]. Computers and Electrical Engineering (JCR Q2). <a href="https://www.sciencedirect.com/science/article/pii/S0045790622002701?via%3Dihub"><strong><font color="#267cb9">pdf</font></strong></a></li>  
