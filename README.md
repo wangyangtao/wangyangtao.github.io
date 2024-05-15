@@ -123,9 +123,10 @@
 - Machine Learning
 
 ## Research Fundings
-- 广东省自然科学基金青年基金项目
-- 广州市科技计划项目
-- 广州市科技计划项目
+- 广东省自然科学基金青年基金项目, 2023A1515110650, 2024.01-2026.12, 主持
+- 广东省教育厅创新强校青年创新人才类项目, 2023KQNCX055, 2023.10-2025.09, 主持
+- 广州市市校（院）企联合资助项目, 2024A03J0013, 2024.04-2026.03, 主持
+- 广州市科技计划一般项目, 202201010529, 2022.04-2024.03, 主持
 
 ## CONTACT ME
 - **Address**: Room 608, Electronic Information Lab Building, Guangzhou University, 230 Wai Huan Xi Road, Guangzhou Higher Education Mega Center, Guangzhou, China.
