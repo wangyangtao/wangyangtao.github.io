@@ -117,12 +117,12 @@
 <li>周可，王桦，唐文君，<strong>汪洋涛</strong>，李晓翠. 一种基于前位置矢量的差分隐私保护方法. 中国国家发明专利，授权公布号：CN107493268B，授权公告日：2019-05-31.</li>
 </ol>
 
-## Teaching
+## TEACHING
 - Discrete Mathematics
 - Artificial Intelligence Principles
 - Machine Learning
 
-## Research Fundings
+## RESEARCH FUNDINGS
 - 广东省自然科学基金青年基金项目, 2023A1515110650, 2024.01-2026.12, 主持
 - 广东省教育厅创新强校青年创新人才类项目, 2023KQNCX055, 2023.10-2025.09, 主持
 - 广州市市校（院）企联合资助项目, 2024A03J0013, 2024.04-2026.03, 主持
