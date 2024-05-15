@@ -122,6 +122,11 @@
 - Artificial Intelligence Principles
 - Machine Learning
 
+## Research Fundings
+- 广东省自然科学基金青年基金项目
+- 广州市科技计划项目
+- 广州市科技计划项目
+
 ## CONTACT ME
 - **Address**: Room 608, Electronic Information Lab Building, Guangzhou University, 230 Wai Huan Xi Road, Guangzhou Higher Education Mega Center, Guangzhou, China.
 - **Tel**: +86-13072780291
