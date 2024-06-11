@@ -19,7 +19,7 @@
 - 广州市科技计划一般项目, 202201010529, 2022.04-2024.03, 主持
 
 ## PUBLICATIONS
-- ***Accepted***
+
 <ol>
  <li>Yanzhao Xie, Rukai Wei, Jingkuan Song, Yu Liu, <strong>Yangtao Wang* (Corresponding author)</strong> and Ke Zhou. Label-affinity Self-adaptive Central Similarity Hashing for Image Retrieval[J]. IEEE Transactions on Multimedia (CCF B). <a href="https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li> 
 
