@@ -1,5 +1,5 @@
 ## BIOGRAPHY
-**[Yangtao Wang](https://github.com/wangyangtao)** was born in June 1993. He is currently a full-time lecturer at the School of Computer Science and Cyber Engineering, Guangzhou University, Guangzhou, China. He received a Ph.D. degree from Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, China, in 2021. Prior to his Ph.D. journey, he received a B.S. degree from the Faculty of Mathematics and Statistics, Hubei University, Wuhan, China, in 2015. His current main research interests include deep learning, image recognition, graph neural network, multimedia content analysis and cross-modal retrieval. He has published papers in international conferences and journals including ADMA, SIGMOD, APWeb-WAIM, DATE, DAC, ICME, IJCAI, CIKM, ICMR, Future Generation Computer Systems, World Wide Web Journal, Neural Computing and Applications, ACM/IMS Transactions on Data Science, Pattern Recognition, Multimedia Tools and Applications, etc. He got ADMA 2018 Best Student Paper Runner-up Award and APWeb-WAIM 2019 Best Paper Runner-up Award. He served as a reviewer for *IEEE Access*, APWeb-WAIM 2020 and AAAI 2021.
+**[Yangtao Wang](https://github.com/wangyangtao)** was born in June 1993. He is currently a full-time lecturer at the School of Computer Science and Cyber Engineering, Guangzhou University, Guangzhou, China. He received a Ph.D. degree from Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, China, in 2021. Prior to his Ph.D. journey, he received a B.S. degree from the Faculty of Mathematics and Statistics, Hubei University, Wuhan, China, in 2015. His current main research interests include computer vision, multi-modal representation and graph neural network. He has published papers in international conferences and journals including SIGMOD, DATE, DAC, ICME, IJCAI, CIKM, ICMR, World Wide Web Journal, Pattern Recognition, IEEE Transactions on Multimedia, etc. He got ADMA 2018 Best Student Paper Runner-up Award and APWeb-WAIM 2019 Best Paper Runner-up Award. He served as a reviewer for international conferences and journals including AAAI, IJCAI, ICME, TKDE, etc.
 
 ## CAREER PATH
 - Apr 2021-Now. Lecturer, School of Computer Science and Cyber Engineering, Guangzhou University, Guangzhou, China.
@@ -97,6 +97,7 @@
 </ol>
 
 
+<!--
 ## PATENTS
 - ***已申请***
 <ol>
@@ -121,6 +122,7 @@
 <li>周可，李春花，李晓翠，<strong>汪洋涛</strong>. 一种差分隐私空间分解方法与系统. 中国国家发明专利，授权公布号：CN109241774B，授权公告日：2020-11-10.</li>
 <li>周可，王桦，唐文君，<strong>汪洋涛</strong>，李晓翠. 一种基于前位置矢量的差分隐私保护方法. 中国国家发明专利，授权公布号：CN107493268B，授权公告日：2019-05-31.</li>
 </ol>
+-->
 
 ## TEACHING
 - Discrete Mathematics
