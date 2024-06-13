@@ -106,6 +106,7 @@
 - **Tel**: +86-13072780291
 - **Email**: ytaowang@gzhu.edu.cn; ytaowang@foxmail.com
 - **ORCID**: https://orcid.org/0000-0003-4605-9270
+- - **招生**: 欢迎对计算机视觉、多模态表征、图神经网络等方向感兴趣的学生报考硕士研究生
 
 ***
 <center>
