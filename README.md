@@ -25,7 +25,7 @@
  
  <li>Yan Chen, Guocan Cai, Fufang Li*, <strong>Yangtao Wang* (Corresponding author)</strong>, Xin Tan and Xiaocui Li. Domain Alignment with Large Vision-language Models for Cross-domain Remote Sensing Image Retrieval[C]. CIKM 2024 (CCF B). <a href="https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li> 
 
- <li>Yanzhao Xie, Rukai Wei, Jingkuan Song, Yu Liu, <strong>Yangtao Wang* (Corresponding author)</strong> and Ke Zhou. Label-affinity Self-adaptive Central Similarity Hashing for Image Retrieval[J]. IEEE Transactions on Multimedia 2023 (CCF B). <a href="https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li> 
+ <li>Yanzhao Xie, Rukai Wei, Jingkuan Song, Yu Liu*, <strong>Yangtao Wang* (Corresponding author)</strong> and Ke Zhou. Label-affinity Self-adaptive Central Similarity Hashing for Image Retrieval[J]. IEEE Transactions on Multimedia 2023 (CCF B). <a href="https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li> 
 
  <li>Yanzhao Xie, <strong>Yangtao Wang* (Corresponding author)</strong>, Rukai Wei, Yu Liu, Ke Zhou and Lisheng Fan. A hash centroid construction method with Swin transformer for multi-label image retrieval[J]. Neural Computing and Applications 2023 (JCR Q1). <a href="https://trebuchet.public.springernature.app/get_content/2060a847-7cf2-41d6-b22b-fd845df0cd76"><strong><font color="#267cb9">pdf</font></strong></a></li>  
 
