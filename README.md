@@ -21,7 +21,7 @@
 ## PUBLICATIONS
 
 <ol>
- <li>Yi Xie, <strong>Yangtao Wang* (Corresponding author)</strong>, Yanzhao Xie, Xin Tan, Jingjing Li, Xiaocui Li, Weilong Peng, Maobin Tang and Meie Fang. Image-text Retrieval with Main Semantics Consistency[C]. CIKM 2024 (CCF B). <a href="https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li> 
+ <li>Yi Xie, <strong>Yangtao Wang* (Corresponding author)</strong>, Yanzhao Xie, Xin Tan, Jingjing Li, Xiaocui Li*, Weilong Peng, Maobin Tang and Meie Fang. Image-text Retrieval with Main Semantics Consistency[C]. CIKM 2024 (CCF B). <a href="https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li> 
  
  <li>Yan Chen, Guocan Cai, Fufang Li*, <strong>Yangtao Wang* (Corresponding author)</strong>, Xin Tan and Xiaocui Li. Domain Alignment with Large Vision-language Models for Cross-domain Remote Sensing Image Retrieval[C]. CIKM 2024 (CCF B). <a href="https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li> 
 
