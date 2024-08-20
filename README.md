@@ -21,6 +21,8 @@
 ## PUBLICATIONS
 
 <ol>
+ <li>Linruo Liu, <strong>Yangtao Wang* (Corresponding author)</strong>, Yanzhao Xie, Xin Tan, Lizhuang Ma, Maobin Tang and Meie Fang. Label-aware Aggregation on Heterophilous Graphs for Node Representation Learning[J]. Displays 2024 (JCR Q1). <a href="https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li> 
+ 
  <li><strong>Yangtao Wang</strong>, Yicheng Ye, Yanzhao Xie*, Maobin Tang and Lisheng Fan. HSALC: Hard Sample Aware Label Correction for Medical Image Classification[J]. Multimedia Tools and Applications 2024 (JCR Q2). <a href="https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li> 
  
  <li>Yi Xie, <strong>Yangtao Wang* (Corresponding author)</strong>, Yanzhao Xie, Xin Tan, Jingjing Li, Xiaocui Li*, Weilong Peng, Maobin Tang and Meie Fang. Image-text Retrieval with Main Semantics Consistency[C]. CIKM 2024 (CCF B). <a href="https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li> 
