@@ -1,25 +1,53 @@
-## BIOGRAPHY
-**[Yangtao Wang](https://github.com/wangyangtao)** was born in June 1993. He is currently a full-time lecturer at the School of Computer Science and Cyber Engineering, Guangzhou University, Guangzhou, China. He received a Ph.D. degree from Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, China, in 2021. Prior to his Ph.D. journey, he received a B.S. degree from the Faculty of Mathematics and Statistics, Hubei University, Wuhan, China, in 2015. His current main research interests include computer vision, multi-modal representation and graph neural network. He has published papers in international conferences and journals including SIGMOD, DATE, DAC, ICME, IJCAI, CIKM, ICMR, World Wide Web Journal, Pattern Recognition, IEEE Transactions on Multimedia, etc. He got ADMA 2018 Best Student Paper Runner-up Award and APWeb-WAIM 2019 Best Paper Runner-up Award. He served as a reviewer for international conferences and journals including AAAI, IJCAI, ICME, TKDE, etc.
+## 个人简介
+汪洋涛，男，博士，广州大学计算机科学与网络工程学院副教授，硕士生导师。2021年3月博士毕业于华中科技大学，同年4月加入广州大学计算机科学与网络工程学院，主要从事计算机视觉、多模态表征和图神经网络等方向的教学和科研工作。近年来在中国计算机学会（CCF）推荐的A/B类期刊和会议上发表学术论文40余篇，谷歌学术引用量900余次，其中以第一作者或通讯作者发表论文20余篇，以第一发明人申请发明专利10项，获得授权发明专利3项。主持和参与多项国家级、省部级和市厅级科研项目，担任多个高水平学术期刊和会议的审稿人，包括AAAI、ICLR、ICML、NeurIPS、ACM MM、ICME、TKDE、TIP、TMM、TCSVT、PR、计算机学报等，担任Remote Sensing期刊、Electronics期刊客座编辑，担任教育部学位中心博士硕士学位论文评审专家。
 
-## CAREER PATH
-- Apr 2021-Now. Lecturer, School of Computer Science and Cyber Engineering, Guangzhou University, Guangzhou, China.
+## 学习及工作经历
+- 2025.07-至今，广州大学/计算机科学与网络工程学院，人工智能方向，副教授
+- 2021.04-2025.06，广州大学/计算机科学与网络工程学院，人工智能方向，讲师
+- 2019.05-2019.12，深圳腾讯计算机系统有限公司，基础架构部图片业务组，实习
+- 2015.09-2021.03，华中科技大学，计算机科学与技术专业，博士
+- 2011.09-2015.06，湖北大学，信息与计算科学专业，学士
 
-## EDUCATION INFO
-- Sep 2015-Mar 2021. Ph.D. (supervised by Prof. [Ke Zhou](http://faculty.hust.edu.cn/zhouke2/zh_CN/index.htm)), Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, China.
-- Sep 2011-Jun 2015. B.S., Faculty of Mathematics and Statistics, Hubei University, Wuhan, China.
+## 科研项目
+- 国家自然科学基金青年基金项目，2025.01-2027.12，主持
+- 广州市科技计划项目（市校（院）企联合资助项目），2024.04-2026.03，主持（已结题）
+- 国家自然科学基金重大项目，2024.01-2028.12，参与
+- 广东省自然科学基金青年基金项目，2023.11-2026.10，主持
+- 广东省教育厅创新强校青年创新人才类项目，2023.10-2025.09，主持
+- 广州市科技计划项目（博士青年科技人员类项目），2022.04-2024.03，主持（已结题）
 
-<!--
-## INTERNSHIP
-- May-Nov, 2019. Intern, Tencent Inc., Shenzhen, China.-->
+## 学术奖项
+- ICME 2024 (CCF B) Best Paper Candidate（排名第五）
+- APWeb-WAIM 2019 (CCF C) Best Paper Runner-up（排名第二）
+- ADMA 2018 (CCF C) Best Student Paper Runner-up（排名第二）
 
-## RESEARCH FUNDINGS
-- 国家自然科学基金青年基金项目, 62406082, 2025.01-2027.12, 主持
-- 广东省自然科学基金青年基金项目, 2023A1515110650, 2023.11-2026.10, 主持
-- 广东省教育厅创新强校青年创新人才类项目, 2023KQNCX055, 2023.10-2025.09, 主持
-- 广州市市校（院）企联合资助项目, 2024A03J0013, 2024.04-2026.03, 主持
-- 广州市科技计划一般项目, 202201010529, 2022.04-2024.03, 主持
+## 教学奖项
+- 广州大学2024-2025学年本科课堂教学优秀二等奖
+- 广州大学2023-2024学年本科课堂教学优秀二等奖
+- 广州大学2022-2023学年本科课堂教学优秀二等奖
 
-## PUBLICATIONS
+## 学术/竞赛指导
+- 2025年“华为杯”第二十二届中国研究生数学建模竞赛一等奖，国家级.（第一指导老师）
+- 2025年硕士研究生国家奖学金（研二一名），国家级.（唯一指导老师）
+- 2025年广东省大学生计算机设计大赛三等奖，省级.（第二指导老师）
+- 2025 年广州大学研究生创新能力培养基础创新项目立项，校级.（唯一指导老师）
+- 2025年第21届百度之星程序设计大赛省二等奖，省级.（唯一指导老师）
+- 2025年第十六届蓝桥杯大赛软件赛国赛二等奖，国家级.（唯一指导老师）
+- 2025年第十六届蓝桥杯大赛软件赛省赛三等奖，省级.（唯一指导老师）
+- 2025年度大学生创新训练项目立项，国家级.（唯一指导老师）
+- 2023年第四届“华数杯”全国大学生数学建模竞赛优秀奖，国家级.（唯一指导老师）
+- 2023年度大学生创新训练项目立项，国家级.（唯一指导老师）
+- 2022年度大学生创新训练项目立项，省级.（唯一指导老师）
+- 2022年（第15届）中国大学生计算机设计大赛三等奖，国家级.（唯一指导老师）
+
+## 讲授课程
+- 离散数学（本科，春季，64学时）
+- 人工智能原理（本科，春季，96学时）
+- 人工智能导论（本科，秋季，64学时）
+- 机器学习（研究生，春季，32学时）
+
+
+## 近5年代表性学术论文（CCF A/B或中科院一区Top）
 
 <ol>
  <li>Linruo Liu, <strong>Yangtao Wang* (Corresponding author)</strong>, Yanzhao Xie, Xin Tan, Lizhuang Ma, Maobin Tang and Meie Fang. Label-aware Aggregation on Heterophilous Graphs for Node Representation Learning[J]. Displays 2024 (JCR Q1). <a href="https://github.com/wangyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li> 
@@ -80,43 +108,13 @@
 </ol>
 
 
-<!--
-## PATENTS
-- ***已申请***
-<ol>
-<li>谭伟强，范立生，<strong>汪洋涛</strong>. 一种用于电子通信的可折叠收纳型信号放大装置. 中国国家发明专利.</li>
-<li><strong>汪洋涛</strong>，范立生，夏隽娟，彭伟龙，谭伟强. 一种多标签图像分类方法、装置、设备及存储介质. 中国国家发明专利. 申请号：CN202111002998.5，申请日期：2021-08-30.</li>
-<li>夏隽娟，范立生，赵子超，<strong>汪洋涛</strong>，刘外喜. 一种联邦学习带宽分配方法、系统、计算机设备及介质. 中国国家发明专利. 申请号：CN202110842426.1，申请日期：2021-07-23.</li>
-<li>范立生，夏隽娟，何科，<strong>汪洋涛</strong>，刘外喜. 一种深度学习辅助的快速MIMO信号搜索方法. 中国国家发明专利.</li>
-<li><strong>汪洋涛</strong>，范立生，彭伟龙，谭伟强. 一种基于类激活映射机制的多标签图像分类方法和系统. 中国国家发明专利. 申请号：CN202110625124.9，申请日期：2021-06-04.</li>
-<li>刘渝，<strong>汪洋涛</strong>，谢延昭，周可，夏天，冯树耀. 一种多标签图像的哈希码生成方法和系统. 中国国家发明专利. 申请号：CN202011226768.2，申请日期：2020-11-05.</li>
-<li><strong>汪洋涛</strong>，刘渝，李春花，牛中盈，王冲，周可. 一种基于节点表征的无监督深度哈希模型训练方法及图像检索方法. 中国国家发明专利. 申请号：CN202011100519.2，申请日期：2020-10-15</li>
-<li>刘渝，<strong>汪洋涛</strong>，谢延昭，李春花，王冲，牛中盈，周可. 一种基于跨模态的快速多标签图像分类方法和系统. 中国国家发明专利. 申请号：CN202011100518.8，申请日期：2020-10-15.</li>
-<li>刘渝，<strong>汪洋涛</strong>，周可，管飞宇，夏天. 二阶相似感知的图像哈希码提取模型建立方法及其应用. 中国国家发明专利. 申请号：CN202011059408.8，申请日期：2020-09-30.</li>
-<li>周可，刘渝，<strong>汪洋涛</strong>，管飞宇. 一种内容筛选存储方法及系统. 中国国家发明专利. 申请号：CN202010819959.3，申请日期：2020-08-14.</li>
-<li>周可，刘渝，杨玉娟，王桦，李春花，<strong>汪洋涛</strong>，刘毅斐. 一种基于相似性哈希的图像暗数据价值评估方法. 中国国家发明专利，申请号：CN201910557932.9，申请日期：2019-06-26.</li>
-<li>周可，刘渝，<strong>汪洋涛</strong>. 一种图像检索方法和系统. 中国国家发明专利，申请号：CN201810637971.5，申请日期：2018-06-20.</li>
-</ol>
-
-- ***已授权***
-<ol>
-<li>Ke ZHOU, Yu LIU, Yujuan YANG, Hua WANG, Chunhua LI, <strong>Yangtao WANG</strong>, Yifei LIU. Method for valuation of image dark data based on similarity hashing. US 11138479B2.  </li>
-<li>周可，刘毅斐，刘渝，<strong>汪洋涛</strong>，杨玉娟. 一种基于内容语义元数据的图像查询方法与系统. 中国国家发明专利，授权公布号：CN110413807B，授权公告日：2021-04-20.  </li>
-<li>周可，李春花，李晓翠，<strong>汪洋涛</strong>. 一种差分隐私空间分解方法与系统. 中国国家发明专利，授权公布号：CN109241774B，授权公告日：2020-11-10.</li>
-<li>周可，王桦，唐文君，<strong>汪洋涛</strong>，李晓翠. 一种基于前位置矢量的差分隐私保护方法. 中国国家发明专利，授权公布号：CN107493268B，授权公告日：2019-05-31.</li>
-</ol>
--->
-
-## TEACHING
-- Discrete Mathematics
-- Artificial Intelligence Principles
-- Machine Learning
-
-## CONTACT ME
-- **Address**: Room 608, Electronic Information Lab Building, Guangzhou University, 230 Wai Huan Xi Road, Guangzhou Higher Education Mega Center, Guangzhou, China.
-- **Tel**: +86-13072780291
-- **Email**: ytaowang@gzhu.edu.cn; ytaowang@foxmail.com
+## 联系信息
+- **办公地址**: 广州大学大学城校区电子信息实验楼608室; 广州大学黄埔校区A3栋博算楼602-B室
+- **联系电话**: +86-13072780291
+- **Email**: ytaowang@gzhu.edu.cn
 - **ORCID**: https://orcid.org/0000-0003-4605-9270
+- **DBLP**: https://dblp.uni-trier.de/pid/150/8599.html
+- **Google Scholar**: https://scholar.google.com.hk/citations?user=lNIvxkQAAAAJ&hl=zh-CN
 - **Scholat**: https://www.scholat.com/ytaowang
 - **招生**: 长期招收计算机视觉、多模态表征、图神经网络等方向的硕士研究生（保研/考研），要求数学基础、编程基础、英语阅读和写作能力较好.
 
