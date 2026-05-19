@@ -68,7 +68,6 @@
 
 ## 联系信息
 - **办公地址**: 广州大学大学城校区电子信息实验楼608室; 广州大学黄埔校区A3栋博算楼602-B室
-- **联系电话**: +86-13072780291
 - **Email**: ytaowang@gzhu.edu.cn
 - **ORCID**: https://orcid.org/0000-0003-4605-9270
 - **DBLP**: https://dblp.uni-trier.de/pid/150/8599.html
