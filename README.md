@@ -47,7 +47,7 @@
 - 机器学习（研究生，春季，32学时）
 
 
-## 近5年代表性学术论文（CCF A/B或中科院一区Top）
+## 近5年代表性学术论文（CCF A/B或中科院一区Top，一作/通讯）
 -  <strong>Yangtao Wang</strong>, Mingxin Huang, Xingwei Deng, Yanzhao Xie, Xiaocui Li. Progressive Hybrid Pseudo-Labeling for Unsupervised Domain Adaptation with Ascending Low-Rank Adaptation. IEEE Transactions on Image Processing, 2026. (CCF A类期刊) <a href="Non"><strong><font color="#267cb9">Link</font></strong></a>
 -  Da Chen, <strong>Yangtao Wang (共同通讯作者)</strong>, Yanzhao Xie, Siyuan Chen, Maobin Tang, Xiaocui Li, Xinyu Zhang, Jie Wen, Zheng Zhang, Wensheng Zhang. DKP: Semantic Consistency Distillation via Key-layer Pre-alignment with Large Vision-language Models for Cross-Modal Retrieval. IEEE Transactions on Multimedia, 2026. (CCF A类期刊) <a href="Non"><strong><font color="#267cb9">Link</font></strong></a>
 -  Yanzhao Xie, Hao Huang, <strong>Yangtao Wang (唯一通讯作者)</strong>, Fangyuan Zhang, Rukai Wei, Dandan Shao, Maobin Tang, Meie Fang, Weilong Peng, Lisheng Fan, Wensheng Zhang. PTPD: Prototype-Guided Triplet Prompt Distillation with Vision-language Models. Pattern Recognition, 2026. (中科院一区Top期刊) <a href="https://doi.org/10.1016/j.patcog.2026.114145"><strong><font color="#267cb9">Link</font></strong></a>
